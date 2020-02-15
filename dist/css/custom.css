@@ -1,0 +1,102 @@
+body {
+    overflow-x: hidden;
+}
+body, .form-control {
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    margin-bottom: 40px;
+}
+label {
+    color: #333;
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+
+.typeahead.dropdown-menu>.active>a, .typeahead.typeahead.dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    color: #000;
+}
+
+@media screen and (max-width:1024px){
+#category-menu > ul > li > ul {
+    right: -25px;
+}
+div#qstnTopp .col-md-5.text-right {
+    margin: 10px 0;
+}
+ul.sortByQues {
+    padding-left: 0;
+}	
+.divBorder div {
+    float: none;
+}
+
+.sidebar-scroll-info {
+    margin-bottom: 20px;
+}
+}
+
+@media screen and (min-width:768px)and (max-width:1024px){
+
+
+
+#qstnTopp .qasrch {
+    width: calc(100% - 39px);
+}
+
+}
+
+
+@media screen and (max-width:767px){
+	ul.typeahead.dropdown-menu {
+    max-width: 75vw;
+}
+
+ul.typeahead.dropdown-menu>li>a{
+    white-space: initial;
+}
+
+div#reply_fm_1>.form-group, div#reply_fm_1>.form-group + div {
+    margin-left: -15px;
+}
+
+div[id^=reply_fm_], div[id^=reply_ls_] {
+    padding-left: 0px;
+}
+ 
+.controls textarea, textarea.form-control[name="reply_msg"]{
+    height: 250px;
+}
+
+select#aaMore {
+    margin: 10px 0;
+}
+
+.col-md-3.infoFont, .col-md-3.font12 {
+    width: 45%;
+    float: left;
+}
+
+.col-md-6.text-left.font12 {
+    width: 55%;
+    float: right;
+    text-align: right;
+}
+
+
+
+
+}
+.shotqus{
+min-width: calc(100% - 50px)
+}

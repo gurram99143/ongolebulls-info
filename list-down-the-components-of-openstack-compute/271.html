@@ -1,0 +1,1428 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="">
+        <title>List down the components of OpenStack Compute | DevOpsCloud</title>
+        <meta name="description" content="Nova (Compute) Cloud comprises following components:      	API server  	Message Queue (Rabbit-MQ Server)  	Compute Workers (Nova-Compute)  	Network controller (Nova-Network)  	Volume Worker  	Scheduler  ">
+        <meta name="keywords" content="components of OpenStack Compute"> 
+
+        <style>html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}nav{display:block}a{background-color:transparent}img{border:0}button,input,select{margin:0;font:inherit;color:inherit}button{overflow:visible}button,select{text-transform:none}button{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}input{line-height:normal}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input,select{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}img{vertical-align:middle}.img-responsive{display:block;max-width:100%;height:auto}h1,h4,h5{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h4,h5{margin-top:10px;margin-bottom:10px}h1{font-size:36px}h4{font-size:18px}h5{font-size:14px}p{margin:0 0 10px}.page-header{padding-bottom:9px;margin:40px 0 20px;border-bottom:1px solid #eee}ul{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.container-fluid{padding-right:15px;padding-left:0;margin-right:auto;margin-left:auto}.row{margin-right:-15px;margin-left:-15px}.col-lg-12,.col-md-10,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-9,.col-sm-12,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-xs-12,.col-xs-4,.col-xs-6{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-12,.col-xs-4,.col-xs-6{float:left}.col-xs-12{width:100%}.col-xs-6{width:50%}.col-xs-4{width:33.33333333%}.form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.42857143;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.form-control::-ms-expand{background-color:transparent;border:0}.form-group{margin-bottom:15px}.btn{display:inline-block;padding:6px 12px;margin-bottom:0;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;background-image:none;border:1px solid transparent;border-radius:4px}.btn-warning{color:#fff;background-color:#f0ad4e;border-color:#eea236}.collapse{display:none}.dropdown{position:relative}.input-group{position:relative;display:table;border-collapse:separate}.input-group .form-control{position:relative;z-index:2;float:left;width:100%;margin-bottom:0}.input-group .form-control,.input-group-btn{display:table-cell}.input-group-btn{width:1%;white-space:nowrap;vertical-align:middle}.input-group .form-control:first-child{border-top-right-radius:0;border-bottom-right-radius:0}.input-group-btn:last-child>.btn{border-top-left-radius:0;border-bottom-left-radius:0}.input-group-btn{position:relative;font-size:0;white-space:nowrap}.input-group-btn>.btn{position:relative}.input-group-btn:last-child>.btn{z-index:2;margin-left:-1px}.nav{padding-left:0;margin-bottom:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 10px}.navbar{position:relative;min-height:40px;margin-bottom:10px;border:1px solid transparent}.navbar-collapse{padding-right:15px;padding-left:0;overflow-x:visible;-webkit-overflow-scrolling:touch;border-top:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1)}.container-fluid>.navbar-collapse,.container-fluid>.navbar-header{margin-right:-15px;margin-left:-15px}.navbar-toggle{position:relative;float:right;padding:9px 10px;margin-top:8px;margin-right:15px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}.navbar-toggle .icon-bar{display:block;width:22px;height:2px;border-radius:1px}.navbar-toggle .icon-bar+.icon-bar{margin-top:4px}.navbar-nav{margin:7.5px 15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}.navbar-inverse{background-color:#222;border-color:#080808}.navbar-inverse .navbar-nav>li>a{color:#9d9d9d}.navbar-inverse .navbar-toggle{border-color:#333}.navbar-inverse .navbar-toggle .icon-bar{background-color:#fff}.navbar-inverse .navbar-collapse{border-color:#101010}.panel{margin-bottom:20px;background-color:#fff;border:1px solid transparent;border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);box-shadow:0 1px 1px rgba(0,0,0,.05)}.panel-body{padding:15px}.panel-default{border-color:#ddd}.container-fluid:after,.container-fluid:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.panel-body:after,.panel-body:before,.row:after,.row:before{display:table;content:" "}.container-fluid:after,.nav:after,.navbar-collapse:after,.navbar-header:after,.navbar:after,.panel-body:after,.row:after{clear:both}.inner_ul li a{word-break:break-all}.btn-warning{color:#fff;background-color:#337ab7;border-color:#337ab7}.custom-users-online{color:#fff;background:#fff;float:left;width:100%;padding:12px 17.5px;font-weight:700}.right_article{color:#337ab7;padding:0 0 0 10px}.right_article li{margin-bottom:10px;line-height:15px;font-size:13px;word-break:break-all}.right_article li:last-child{margin-bottom:0}#page-wrapper{padding:0 15px;min-height:568px;background-color:white}@font-face{font-family:'FontAwesome';src:url(../fonts/fontawesome-webfont.eot?v=4.6.3);src:url(../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(../fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(../fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(../fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');font-weight:400;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-search:before{content:"\f002"}.fa-download:before{content:"\f019"}.fa-angle-double-left:before{content:"\f100"}.fa-angle-double-right:before{content:"\f101"}.fa-file:before{content:"\f15b"}.fa-thumbs-up:before{content:"\f164"}.fa-thumbs-down:before{content:"\f165"}body{font-family:'Fira Sans',sans-serif}.p0{padding:0}.navbar-inverse{background-color:#337ab7;border-color:#337ab7;border-radius:0}.navbar-inverse .navbar-nav>li>a{color:#fff}@font-face{font-family:'Fira Sans';font-style:normal;font-weight:400;src:local('Fira Sans Regular'),local('FiraSans-Regular'),url(https://fonts.gstatic.com/s/firasans/v10/va9E4kDNxMZdWfMOD5Vvl4jO.ttf) format('truetype')}</style>
+		<!-- Bootstrap Core CSS -->
+		<link href="..\vendor\bootstrap\css\bootstrap.min.css" rel="preload" as="style"><link rel="stylesheet" href="..\vendor\bootstrap\css\bootstrap.min.css">
+
+        <!-- MetisMenu CSS -->
+		<link href="..\vendor\metisMenu\metisMenu.min.css" rel="preload" as="style"><link rel="stylesheet" href="..\vendor\metisMenu\metisMenu.min.css">
+
+        <!-- Custom CSS -->
+		<link href="..\dist\css\sb-admin-2.css" rel="preload" as="style"><link rel="stylesheet" href="..\dist\css\sb-admin-2.css">
+
+        <!-- Custom Fonts -->
+		<link href="..\vendor\font-awesome\css\font-awesome.min.css" rel="preload" as="style"><link rel="stylesheet" href="..\vendor\font-awesome\css\font-awesome.min.css">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <style>
+            img { max-width: 100%; max-height: 100%; }
+            .comment_box_area{ background:#fbfbfb; padding:8px; display: table; width: 100%; }
+            .comment_text{ min-height:90px; }
+            .comment_listing{ margin-top:20px; background:#fbfbfb; display: table; }
+            .comment_section{ margin-top:15px; margin-bottom:15px; display: table; width:100%; }
+            .comment_doted{ border-bottom:1px dotted #337ab7; height:25px; }
+            .comment_time{ /* float:right; */ color:#08c; padding:4px; }
+            #cke_1_top{ display:none!important; }
+            .comment_likes{ color: #313233; font-weight:500; }
+            .commented_by{ padding-left:0px; }
+            .comment_like_area{ float:right; }
+            @media screen and (max-width:768px){
+                .comment_time{ float:none; display:inherit; }
+                .comment_likes{ padding-left:0px; }
+                .comment_like_area{ float:unset; text-align:center; }
+                .comment_doted{ height:25px; }
+            }
+            .comment_msg{ margin:0px 0px 0px!important; width:100%; display:table; overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-all; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }
+            .delete_button{ color: red; float: right; margin-top: -19px; }
+            .delete_button:hover{ text-decoration:underline; cursor:pointer; }
+            .fa-thumbs-up{ cursor:pointer; font-size:18px; color:green; }
+            .fa-thumbs-up:active{ color:green; cursor:pointer; }
+            i.fa.fa-thumbs-up.active{ color:green; }
+            .fa-thumbs-down{ cursor:pointer; font-size:18px; color:red; }
+            .fa-thumbs-down:active{ color:red; cursor:pointer; }
+            i.fa.fa-thumbs-down.active{ color:red; }
+            #total_comments{ color:blue; }
+            .su_page_rating_box { display: block; padding: 10px 10px 10px 0 !important; }
+            .su_page_rating_box
+            .su_feedback_form { max-width: 300px; /*width: max-content;*/ display: flex; -webkit-box-align: center; align-items: center; justify-content: space-evenly; color: #fff; font-size: 14px; padding: 10px; background-color: #e7e7e7; border-radius: 3px; text-align: center; margin-left: -13px; }
+            .su_page_rating_box p { font-size: 1em; line-height: 1.41em; }
+            .su_feedback_form span { margin: 0 10px; }
+            .su_page_rating_box .su_helpful { display: inline-block; border: 1px solid #43a047; background-color: #43a047; padding: 2px 10px; border-radius: 2px; color: white; cursor:pointer; }
+            .su_page_rating_box .su_unhelpful { display: inline-block; border: 1px solid #ef5350; background-color: #ef5350; padding: 2px 10px; border-radius: 2px; color: white; cursor:pointer; }
+            .su_unhelpful { box-shadow: none !important; }
+            .su_page_rating_box .su_feedback_success { color: #fff; font-size: 14px; padding: 10px; background-color: #43a047; border-radius: 3px; width: fit-content; text-align: left; }
+        </style>
+    </head>
+    <body>
+
+        <!-- Navigation Menu-->
+
+        
+<!--CSS -->
+
+<link href="..\vendor\bootstrap\css\extracss.css" rel="preload" as="style"><link rel="stylesheet" href="..\vendor\bootstrap\css\extracss.css">
+<link href="//fonts.googleapis.com/css?family=Fira+Sans" rel="preload" as="style"><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Fira+Sans">
+<link rel="shortcut icon" href="https://www.devopscloud.guru/vendor/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.devopscloud.guru/vendor/images/favicon.ico" type="image/x-icon">
+<style>
+    .navbar-inverse { background-color: #2e5a80 !important; border-color: #2e5a80 !important; }
+    #menubar li a.active{ background-color: #973e2a !important; border-color: #973e2a !important; color:#ffffff; }
+    #ipaddress{ font-size:11.5px; }
+    #mobile-ipaddress{ display:none; }
+    .user-login-menu{ margin-top:5px; }
+    .register-user-menu{ margin-top:0px; }
+    .dropdown_login{ right: 0px!important; left: auto!important; }
+    .childshow{ display:blod; }
+    .childhide{ display:none; }
+    .loginlink{ padding:5px 8px; min-height: 52px; margin-left:2px; font-size:13px; }
+   @media(max-width:768px){
+       .dashboardlink{ width:100%!important; }
+       .loginlink{ width:24%; margin-left:0px; }
+       #ipaddress{ display:none; }
+       #mobile-ipaddress{ display:block; font-size:10px; margin-left:16px; float:left; }
+    .user-login-menu{ margin-top:0px; width: 100%; display: flow-root; }
+    .register-user-menu{ margin-top:0px; width: 100%; display: flow-root; }
+    .register-user-menu a{ margin-bottom:4px; padding:6px 8px; }
+   .navbar-top-links{ float:right; }
+   .dropdown:hover .dropdown-menu{ display:block; }
+   .logo-responsive{ width:100%; }
+   .dropdown_login{ left:0px!important; }
+	.navbar-header-mobile{ display:none; }
+	.navbar-collapse.in { overflow-y: visible; }
+ }
+</style>
+
+
+<style>
+#myNavbar .nav .dropdown a.dropbtn:hover { background-color: #973e2a !important;  }
+.dropbtn { color: white; border: none; }
+.dropdown { position: relative; }
+.dropdown-content{ margin-top: 0px !important; border-top-left-radius: 0px !important; border-top-right-radius: 0px !important; }
+.dropdown-content { position: absolute; top: 100%; left: 0; z-index: 1000; display: none; float: left; min-width: 170px; padding: 5px 0; margin: 2px 0 0; margin-top: 2px; font-size: 14px; text-align: left; list-style: none; background-color: #fff; -webkit-background-clip: padding-box; background-clip: padding-box; border: 1px solid #ccc; border: 1px solid rgba(0,0,0,.15); border-radius: 4px; border-top-left-radius: 4px; border-top-right-radius: 4px; -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175); box-shadow: 0 6px 12px rgba(0,0,0,.175); }
+.dropdown-content a { color: black; padding: 3px 20px; text-decoration: none; display: block; }
+.dropdown-content a:hover {background-color: #f9f779 !important;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {}
+.hsearchbox{ /* margin-bottom:-2px; */ }
+.hsearchbox_area{ padding:10px 0px; }
+</style>
+
+<!-- jQuery -->
+
+<script src="..\vendor\jquery\jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $(function () {
+     
+     $("#menubar li a").each(function () {
+        var href = $(this).attr('href');
+        if (this.baseURI === href) {
+           localStorage.setItem("lastURI", href);
+            setNavigation();
+        }
+    });
+    var lastURI = localStorage.getItem("lastURI");
+
+     $("a[href='" + lastURI + "']").parent("li").addClass("active"); 
+   
+    
+});
+
+function setNavigation() {
+    
+   
+    $("#menubar li a").each(function () {
+        
+        var href = $(this).attr('href');
+        if (this.baseURI === href) {
+            $(this).closest('li').addClass('active');
+        } else {
+            $(this).closest('li').removeClass('active');
+        }
+    });
+}    
+
+setTimeout(function(){ 
+ $('#myNavbar .navbar-nav li.dropdown .dropdown-content li a.active').parent().parent().parent().addClass('active');
+}, 500);
+    
+</script>
+
+
+
+  <div class="container-fluid p0"> 
+
+    <div class="col-sm-3 p0">
+
+      <a href="..\index.htm"><img src="..\vendor\images\devOpsCloud-guru_logo.jpg" class="img-responsive logo-responsive"></a>
+
+    </div>
+
+    <div class="col-sm-4" style="padding: 0px;">
+    
+	<form style="padding:18px 0px" action="https://www.devopscloud.guru/search" method="post">
+        <div class="form-group col-md-12  col-sm-12 col-xs-12" style="margin-bottom:0px;">
+			<div class="input-group">
+				<input type="text" name="search" class="form-control" placeholder="Search for Articles" aria-label="Search for Articles">
+				<div class="input-group-btn">
+					<button class="btn btn-warning" type="submit"><i class="fa fa-search"></i></button>
+				</div>
+			</div>
+		</div>
+		<div id="ipaddress"></div>
+                <div id="mobile-ipaddress"></div>
+        
+       
+    </form>
+	</div>
+	
+	<div class="col-sm-5" style="padding: 0px;">
+    <div class="custom-users-online">
+    
+        		<style>
+		.custom-users-online { padding: 12px 7px 0 1px; }
+		.topnav { margin-top: 5px; font-size: 12px; font-weight: normal; margin-left: 25%; }
+		.topnav>li>a { padding: 10px 5px; }
+		.topnav>li>a:after { display:block; content: ''; border-bottom: solid 3px #900; transform: scaleX(0); }
+		.topnav>li>a:focus, .topnav>li>a:hover { color: #900; text-decoration: none; background-color: transparent; }
+		.topnav>li>a:focus:after, .topnav>li>a:hover:after { transform: scaleX(1); }
+		.topnav>li>a.active { color: #900; text-decoration: none; background-color: transparent; font-weight: bold; }
+		.topnav>li>a.active:after { transform: scaleX(1); }
+		.topnav>li.seperator>a { padding: 10px 0px; }
+		.topnav>li.seperator>a:after { display:block; content: ''; border-bottom: none; }
+		.topnav>li.seperator>a:focus, .topnav>li.seperator>a:hover { text-decoration: none; }
+		@media (max-width: 768px) {
+			.topnav { margin-left: 0; }
+			.topnav>li { display: inline-block; }
+		}
+		.dropdown-content a { font-size: 12px; }
+		</style>
+		        <div class="register-user-menu">
+			<ul class="nav navbar-nav navbar-left topnav">
+                <li><a href="..\login.html">Login</a></li>
+				<li class="seperator"><a>|</a></li>
+                <li><a href="..\register.html">Register</a></li>
+				<li class="seperator"><a>|</a></li>
+                <li><a href="https://www.devopscloud.guru/postarticle">Post Article</a></li>
+				<li class="seperator"><a>|</a></li>
+                <li><a href="..\ask-questions-answer-questions.html">Ask Questions</a></li>
+            </ul>
+		</div>
+ 		   
+    
+    </div>
+    </div>
+</div>
+
+<div class="container-fluid p0">
+
+<div class="navbar-header navbar-header-mobile">
+   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+   <span class="icon-bar"></span>
+   <span class="icon-bar"></span>
+   <span class="icon-bar"></span>                        
+   </button>
+</div>
+
+<nav class="navbar navbar-inverse">
+   
+   <div class="container-fluid">
+      <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>                        
+         </button>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+         <ul class="nav navbar-nav menu" id="menubar">
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">DevOps</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\ansible\1.html">Ansible</a></li>
+                                    <li><a href="..\bitbucket\2.html">Bitbucket</a></li>
+                                    <li><a href="..\chef\3.html">Chef</a></li>
+                                    <li><a href="..\dockers\4.html">Dockers</a></li>
+                                    <li><a href="..\git\5.html">Git</a></li>
+                                    <li><a href="..\jenkins\6.html">Jenkins</a></li>
+                                    <li><a href="..\jfrog\7.html">JFrog</a></li>
+                                    <li><a href="..\jira\8.html">Jira</a></li>
+                                    <li><a href="..\kubernetes\9.html">Kubernetes</a></li>
+                                    <li><a href="..\maven\10.html">Maven</a></li>
+                                    <li><a href="..\nagios\11.html">Nagios</a></li>
+                                    <li><a href="..\nexus\12.html">Nexus</a></li>
+                                    <li><a href="..\openshift\13.html">OpenShift</a></li>
+                                    <li><a href="..\puppet\14.html">Puppet</a></li>
+                                    <li><a href="..\saltstack\15.html">SaltStack</a></li>
+                                    <li><a href="..\sonarqube\16.html">SonarQube</a></li>
+                                    <li><a href="..\splunk\17.html">Splunk</a></li>
+                                    <li><a href="..\terraform\18.html">Terraform</a></li>
+                                    <li><a href="..\vagrant\19.html">Vagrant</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">Cloud</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\aws\20.html">AWS</a></li>
+                                    <li><a href="..\azure\21.html">Azure</a></li>
+                                    <li><a href="..\cloud-foundry\22.html">Cloud Foundry</a></li>
+                                    <li><a href="..\gcp\23.html">GCP</a></li>
+                                    <li><a href="..\iac\24.html">IaC</a></li>
+                                    <li><a href="..\iaas\25.html">IaaS</a></li>
+                                    <li><a href="..\openstack\26.html">OpenStack</a></li>
+                                    <li><a href="..\paas\27.html">PaaS</a></li>
+                                    <li><a href="..\packer\28.html">Packer</a></li>
+                                    <li><a href="..\saas\29.html">SaaS</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">Database</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\amazon-redshift\30.html">Amazon Redshift</a></li>
+                                    <li><a href="..\apache-cassandra\31.html">Apache Cassandra</a></li>
+                                    <li><a href="..\amazon-dynamodb\32.html">Amazon DynamoDB</a></li>
+                                    <li><a href="..\mongodb\33.html">MongoDB</a></li>
+                                    <li><a href="..\mysql\34.html">MySQL</a></li>
+                                    <li><a href="..\oracle\35.html">Oracle</a></li>
+                                    <li><a href="..\postgresql\36.html">PostgreSQL</a></li>
+                                    <li><a href="..\amazon-rds\37.html">Amazon RDS</a></li>
+                                    <li><a href="..\sql-server\38.html">SQL Server</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">Programming</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\dotnet\39.html">DotNet</a></li>
+                                    <li><a href="..\java\40.html">Java</a></li>
+                                    <li><a href="..\golang\41.html">Golang</a></li>
+                                    <li><a href="..\groovy\42.html">Groovy</a></li>
+                                    <li><a href="..\junit\43.html">JUnit</a></li>
+                                    <li><a href="..\powershell\44.html">PowerShell</a></li>
+                                    <li><a href="..\python\45.html">Python</a></li>
+                                    <li><a href="..\ruby\46.html">Ruby</a></li>
+                                    <li><a href="..\selenium\47.html">Selenium</a></li>
+                                    <li><a href="..\shell-scripting\48.html">Shell Scripting</a></li>
+                                    <li><a href="..\yaml\49.html">YAML</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">Operating System</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\linux\50.html">Linux</a></li>
+                                    <li><a href="..\macos\51.html">macOS</a></li>
+                                    <li><a href="..\virtualbox\52.html">VirtualBox</a></li>
+                                    <li><a href="..\vmware\53.html">VMware</a></li>
+                                    <li><a href="..\windows\54.html">Windows</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">AI</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\artificial-intelligence\55.html">Artificial Intelligence</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">ML</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\machine-learning\56.html">Machine Learning</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                        <li class="dropdown parent">
+			   <a class="dropbtn" href="javascript:void(0);">Free Courses</a>
+			    <ul class="dropdown-content child">
+                  <li class="dropdown">
+                                       <li><a href="..\free-online-courses\59.html">Free Online Courses</a></li>
+                                    <li>
+               </li></ul>
+            </li>
+                     </ul>
+
+                        </div>
+   </div>
+</nav>
+
+<script>
+   $(document).ready(function(){
+       
+			
+		if ($(window).width() < 768) {
+			 $(".parent ul").hide();
+            $(".parent > a").click(function() {
+                $(this).next("ul").toggle('fast');
+            });
+		}
+     $('#close').click(function(){ $('#hide').hide();  });
+
+     $("form.search").hide();
+
+
+     $("#search").click(function () { 
+        $(".menu").toggle();
+        $("form.search").toggle(); 
+        $(this).toggleClass("fa-times fa-search");
+        $("i.fa-times#search").click(function () {
+          $(".menu").addClass("fadeInDown");
+        });
+       });
+   });
+   
+</script>
+<script type="text/javascript">
+    function ipaddress()
+    {
+        $.ajax({
+          type: "GET",
+		  url: "https://ipinfo.io/json",
+          success: function (data) {
+              var response = data;
+              document.getElementById("ipaddress").innerHTML = "<div style='text-align:center;font-weight:600;display:block;'><span class='glyphicon glyphicon-map-marker'></span>&nbsp;<span style='color:#8a8181;'>Your IP is </span><span class='text text-info'>"+response.ip+" ("+response.city+", "+response.region+", "+response.country+")</span></div>";
+
+ document.getElementById("mobile-ipaddress").innerHTML = "<div style='text-align:center;font-weight:600;display:block;'><span class='glyphicon glyphicon-map-marker'></span>&nbsp;<span style='color:#8a8181;'>Your IP is </span><span class='text text-info'>"+response.ip+" ("+response.city+", "+response.region+", "+response.country+")</span></div>";
+              
+          }
+     });
+    }
+    ipaddress();
+    
+    
+</script>
+        <div id="page-wrapper">
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-9" style="color: #337ab7; font-size:14px;padding-left:0px;">
+
+                        
+                        <a href="..\index.htm">Home</a> &gt;&gt;Cloud &gt;&gt;<a href="..\openstack\26.html">OpenStack</a> &gt;&gt;List down the components of OpenStack Compute                    </div>
+                    <div class="col-md-3">&nbsp;</div>
+                </div>
+                <div class="col-md-9 col-sm-12 col-xs-12 pagecontent">
+                    
+                    <div class="panel panel-default">
+                        <!-- /.panel-heading -->
+                        <div class="panel-body" id="sticky">
+
+                            <div class="row">
+
+                                <div class="col-md-12 col-sm-12 col-xs-12 page_article_area">
+
+                                    <h1 class="page-header" style="color:red;font-size:25px;margin:5px 0px 10px;word-break: break-all;">List down the components of OpenStack Compute</h1>
+                                    <div style="display:inline-block;width:100%;">
+                                        <h5 style="float:left;color:brown;font-weight:bold;font-size:13px;">June 4, 2019, 9:34 pm | 162 Views                                            | <span id="article_comments">0 Comments </span>
+                                        </h5>
+                                        <div style="float:right;">
+                                            <i class="fa fa-thumbs-up " onclick="ajaxPushThumb('1', '271');" title="Like"></i>&nbsp;<span class="thumbs-up">0</span>
+                                            <i class="fa fa-thumbs-down " onclick="ajaxPushThumb('2', '271');" title="Dislike"></i>&nbsp;<span class="thumbs-down">0</span>
+                                        </div>
+
+                                    </div>
+
+
+                                    <div class="jumbotron" style="padding:10px 0px 0px 0px;margin-bottom:0px;word-break: break-all;">
+
+                                        <p>Nova (Compute) Cloud comprises following components:</p>
+
+<ul>
+	<li>API server</li>
+	<li>Message Queue (Rabbit-MQ Server)</li>
+	<li>Compute Workers (Nova-Compute)</li>
+	<li>Network controller (Nova-Network)</li>
+	<li>Volume Worker</li>
+	<li>Scheduler</li>
+</ul>
+                                    </div>
+                                    <input type="hidden" name="article_id" id="article_id" value="271">
+
+                                </div>
+                                <!-- /-col-md-3-->    
+
+                                <!-- /.col-lg-12 -->
+                            </div>
+
+                            <div class="col-md-12 col-sm-12 col-xs-12" id="rating">
+                                <div class="su_page_rating_box">
+                                    <div class="su_feedback_form">
+                                        <p style="color:black;">Was this article helpful?</p>
+                                        <span class="su_helpful" onclick="displayfeedback();">Yes</span>
+                                        <span class="su_unhelpful" onclick="displayfeedback();">No</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12 col-sm-12 col-xs-12" id="feedback" style="display:none;">
+                                <div class="suapp-rating">
+                                    <div id="suPageRateApp">
+                                        <div class="su_page_rating_box">
+                                            <div class="su_feedback_success">
+                                                <p>Thank you! Your feedback is highly appreciated!</p>
+                                                <p>If you have something to ask/share, please post it in this forum/community.</p>
+                                                <p style="color:yellow">DevOpsCloud is FREE Knowledge Sharing Platform Where DevOps & Cloud consultants learn, share and build their careers.</p>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+							<p>How to start your DevOps and Cloud career? <a target="_blank" href="..\how-to-start-your-devops-and-cloud-career\354.html">https://www.devopscloud.guru/how-to-start-your-devops-and-cloud-career/354</a></p>
+							<p>FREE Udemy DevOps & Cloud courses <a target="_blank" href="..\free-udemy-devopscloud-courses\150.html">https://www.devopscloud.guru/free-udemy-devopscloud-courses/150</a></p>
+
+                        </div>
+
+                    </div>
+
+                    <!--START COMMENT-->
+                    <div class="row">
+
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div style="border: solid;border-color: cadetblue;border-radius: 10px;border-width: thin;padding: 10px;text-align: center;">
+							<p>Ask Questions & Answer Questions for FREE <a target="_blank" href="..\ask-questions-answer-questions.html">https://www.devopscloud.guru/ask-questions-answer-questions</a></p>
+							<p>Sign Up - It’s free and always will be <a target="_blank" href="..\register.html">Register</a> | <a target="_blank" href="..\login.html">Login</a></p>
+                            </div>
+                            
+                            <div class="comment_box_area">
+                                <p style="font-weight:bold;font-size:16px;" id="comment_leave">Leave A Comment</p>
+
+                                    <div class="col-md-12">
+                                        <div class="alert" style="background:#fff;padding:24px;">
+                                            You must be <a href="..\login.html" onclick="ajaxRedirectBack();" style='color:#da1515;'>logged in </a> to Post a Comment.If you've already registered, log in. Otherwise, register and log in.
+
+                                        </div>
+                                    </div>
+
+                            </div>
+                        </div>
+
+		
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <br>
+                                <span id="total_comments"> 
+                                                                        Comments (0)
+                                </span>
+
+
+                                <span style="float:right;">
+                                    <select name="search_option" id="search_option" class="form-control" style="color: cadetblue;border: solid 1px cadetblue;" onchange="ajaxCommentSearch(this.value);">
+                                        <option value="1" like="">Latest</option>
+                                        <option value="2" like="">Oldest</option>
+                                        <option value="3" like="">Most Likes</option>
+                                        <option value="4" like="">Most Dislikes</option>
+                                    </select>
+                                </span>
+
+                                <div class="comment_listing">			
+
+                                </div>
+
+                            </div>
+
+
+
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div id="comments-area">
+
+                            </div>
+                            <div class="append_area">
+
+                            </div>
+                            <input type="hidden" name="total_val" id="total_val" value="0">
+                            <input type="hidden" name="from_val" id="from_val" value="10"> 
+                        </div>
+
+
+
+
+                    </div>
+
+                    <br>
+
+                    <!--END COMMENT-->
+                    <!-- /#page-wrapper -->
+
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <h4 style="color:red;">Most Popular Articles</h4>
+                            <ul class="inner_ul">
+                                            <li><a href="..\what-is-openshift\181.html">What is Openshift?</a></li>
+                                                                                        <li><a href="..\what-are-ad-hoc-commands\5.html">What are ad-hoc commands?</a></li>
+                                                                                        <li><a href="..\what-are-the-advantages-of-jenkins-why-we-use-jenkins\64.html">What are the advantages of Jenkins? Why we use Jenkins?</a></li>
+                                                                                        <li><a href="..\what-is-the-purpose-of-dockerfile\343.html">What is the Purpose of Dockerfile?</a></li>
+                                                                                        <li><a href="..\mention-the-difference-between-apache-ant-and-maven\159.html">Mention the difference between Apache Ant and Maven?</a></li>
+                                                                                        <li><a href="..\what-is-azure\17.html">What is Azure?</a></li>
+                                                                                        <li><a href="..\what-are-aws-developer-tools\239.html">What are AWS Developer Tools?</a></li>
+                                                                                        <li><a href="..\explain-the-major-components-of-chef\132.html">Explain the major components of Chef?</a></li>
+                                                                                        <li><a href="..\explain-jira-workflow\146.html">Explain JIRA workflow</a></li>
+                                                                                        <li><a href="..\what-is-kubectl\79.html">What is Kubectl?</a></li>
+                                                                                        <li><a href="..\what-do-you-know-about-linux\285.html">What do you know about Linux?</a></li>
+                                                                                        <li><a href="..\what-do-you-know-about-availability-zones-in-microsoft-azure\321.html">What do you know about Availability Zones in Microsoft Azure?</a></li>
+                                                                                        <li><a href="..\what-is-bitbucket\16.html">What is Bitbucket?</a></li>
+                                                                                        <li><a href="..\rbac-role-based-access-control-in-azure\130.html">RBAC (Role Based Access Control) in Azure</a></li>
+                                                                                        <li><a href="..\what-is-the-difference-between-a-module-and-a-manifest\106.html">What is the difference between a Module and a Manifest?</a></li>
+                                                                                        <li><a href="..\what-concepts-of-linux-is-required-for-cloud-devops\162.html">What concepts of linux is required for cloud/devops</a></li>
+                                                                                        <li><a href="..\what-is-a-cluster-in-kubernetes\179.html">What is a cluster in Kubernetes?</a></li>
+                                                                                        <li><a href="..\what-are-the-benefits-of-kubernetes\87.html">What are the benefits of Kubernetes?</a></li>
+                                                                                        <li><a href="..\what-is-a-negative-index-in-python\173.html">What is a negative index in Python?</a></li>
+                                                                                        <li><a href="..\what-is-microsoft-azure-cloud-service\358.html">What is Microsoft Azure Cloud Service</a></li>
+                                                                        </ul>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                </div>
+<style>
+.fa-angle-double-left{ padding:2px 4px 2px 4px; background:#337ab7; color:#fff; cursor:pointer; }
+.fa-angle-double-right{ padding:2px 4px 2px 4px; background:#337ab7; color:#fff; cursor:pointer; }
+.recent_comments{ padding-bottom:32px!important; }
+</style>
+<div class="col-md-3 col-sm-12 col-xs-12 ">
+<div class="sidePadding ">
+
+<div id="sidebar-right" style="clear:both;" class="rightpanel_handle">
+	
+	<!--START::RECENT COMMENTS-->
+	<div class="sidebar-scroll-info">
+		<div class="recommended-courses-iq">
+			<div class="recCourseContainer">
+				<div class="widget recommended_course recent_comments">
+					<h4 class="widget_title">Recent Comments</h4>
+										<div class="rightpanel_recent_comment">
+					<ul class="right_article recent_comment_list" style="list-style:none;">
+																					<li>7.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/ansible-from-beginner-to-advanced-in-no-time-p...											</a>
+																						
+											
+											</li>
+																						<li>6.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/python-intro-and-install-guide/
+
+https://www.u...											</a>
+																						
+											
+											</li>
+																						<li>5.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/learn-sonarqube-fastest-way-ever/
+
+https://www...											</a>
+																						
+											
+											</li>
+																						<li>4.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/python-for-beginners-/
+
+https://www.udemy.com/...											</a>
+																						
+											
+											</li>
+																						<li>3.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/awsbestpractices/
+
+Please NOTE, we (www.devops...											</a>
+																						
+											
+											</li>
+																						<li>2.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/unix-and-shell-scripting-training/
+
+https://...											</a>
+																						
+											
+											</li>
+																						<li>1.
+
+											<a href="..\free-udemy-devopscloud-courses\150.html#" target="_blank">
+											
+											https://www.udemy.com/course/git-beginner/
+
+https://www.udemy.com/course/...											</a>
+																						
+											
+											</li>
+																			</ul>
+
+								
+									
+				
+				
+					</div>
+					<div class="col-md-4 col-xs-4" style="float: right;margin-top: 0px;font-size: 20px;font-weight: bold;">
+					<div class="fa fa-angle-double-left" onclick="ajaxRecentComment('1');" title="Previous" style="float:left;"></div>
+					<div class="fa fa-angle-double-right" onclick="ajaxRecentComment('2');" title="Next" style="float:right;"></div>
+
+					</div>
+				</div>
+										
+				
+			</div>
+		</div>
+	</div>
+	<input type="hidden" name="current_recent_comment" id="current_recent_comment" value="0">
+	<input type="hidden" name="total_recent_comment" id="total_recent_comment" value="7">
+	<!--END::MOST RECENT COMMENTS-->
+	<div class="sidebar-scroll-info">
+		<div class="recommended-courses-iq">
+			<div class="recCourseContainer">
+				<div class="widget recommended_course">
+					<h4 class="widget_title">Most Viewed Articles</h4>
+					<div class="mvarticles">
+						<ul class="right_article">
+																								<li><a href="..\free-udemy-devopscloud-courses\150.html">FREE Udemy DevOpsCloud Courses</a></li>
+														
+																										<li><a href="..\what-is-continuous-integration\59.html">what is continuous integration?</a></li>
+														
+																										<li><a href="..\what-is-ansible\1.html">What is Ansible?</a></li>
+														
+																										<li><a href="..\how-you-can-move-or-copy-jenkins-from-one-server-to-another\57.html">How you can move or copy Jenkins from one server to another?</a></li>
+														
+																										<li><a href="..\what-is-a-node-in-chef\20.html">What is a Node in Chef?</a></li>
+														
+																										<li><a href="..\how-to-start-your-devops-and-cloud-career\354.html">How to start your DevOps and Cloud career?</a></li>
+														
+																										<li><a href="..\what-do-you-know-about-ansible-architecture\6.html">What do you know about ansible architecture?</a></li>
+														
+																										<li><a href="..\what-is-the-way-to-access-shell-environment-variables-in-ansible\9.html">What is the way to access shell environment variables in Ansible?</a></li>
+														
+																										<li><a href="..\when-should-we-test-playbooks-and-roles\4.html">When should we test playbooks and roles?</a></li>
+														
+																										<li><a href="..\how-does-a-cookbook-differ-from-a-recipe-in-chef\21.html">How does a Cookbook differ from a Recipe in Chef?</a></li>
+														
+																										<li><a href="..\what-is-the-difference-between-git-pull-and-git-fetch\50.html">What is the difference between &quot;git pull&quot; and &quot;git fetch&quot;?</a></li>
+														
+																										<li><a href="..\what-is-the-use-of-ansible\3.html">What is the use of Ansible?</a></li>
+														
+																										<li><a href="..\what-is-bitbucket\16.html">What is Bitbucket?</a></li>
+														
+																										<li><a href="..\what-is-ansible-role\10.html">What is Ansible role?</a></li>
+														
+																										<li><a href="..\what-are-ad-hoc-commands\5.html">What are ad-hoc commands?</a></li>
+														
+																						</ul>
+					</div>
+					<div class="col-md-4 col-xs-4" style="float: right;margin-top: 0px;font-size: 20px;font-weight: bold;">
+					<div class="fa fa-angle-double-left" onclick="ajaxMVArticles('1');" title="Previous" style="float:left;"></div>
+					<div class="fa fa-angle-double-right" onclick="ajaxMVArticles('2');" title="Next" style="float:right;"></div>
+
+					</div>
+					<input type="hidden" name="current_mva" id="current_mva" value="0">
+					<input type="hidden" name="total_mva" id="total_mva" value="362"><br>
+				</div>
+
+			</div>
+		</div>
+	</div>
+		
+
+			<!--NEW-->
+			<div class="recCourseContainer " style="margin-bottom:10px;">
+				<div class="widget tutorial-widget asideinner" style="border-top:0px;">
+					<h4 class="widget_title">Most Popular Articles</h4>
+					<ul class="right_article">
+															<li><a href="..\how-to-create-a-backup-and-copy-files-in-jenkins\56.html">How to create a backup and copy files in Jenkins?</a></li>
+										
+																			<li><a href="..\name-few-machine-learning-algorithms-you-know\125.html">Name few Machine Learning algorithms you know</a></li>
+										
+																			<li><a href="..\what-is-a-docker-registry\33.html">What is a Docker Registry?</a></li>
+										
+																			<li><a href="..\what-do-you-know-about-resource-groups-in-microsoft-azure\322.html">What do you know about Resource Groups in Microsoft Azure?</a></li>
+										
+																			<li><a href="..\what-is-the-way-to-access-shell-environment-variables-in-ansible\9.html">What is the way to access shell environment variables in Ansible?</a></li>
+										
+																			<li><a href="..\what-s-the-difference-between-a-pull-request-and-a-branch\49.html">What's the difference between a &quot;pull request&quot; and a &quot;branch&quot;?</a></li>
+										
+																			<li><a href="..\what-is-perceptron-in-machine-learning\126.html">What is Perceptron in Machine Learning?</a></li>
+										
+																			<li><a href="..\aws-security-groups-vs-network-acls\301.html">AWS Security Groups Vs Network ACLs</a></li>
+										
+																			<li><a href="..\what-do-you-know-about-docker-container\337.html">What do you know about Docker Container?</a></li>
+										
+																			<li><a href="..\what-is-the-command-to-write-a-commit-message-in-git\40.html">What is the command to write a commit message in Git?</a></li>
+										
+														</ul>
+					
+					
+				</div>
+
+				
+			</div>
+			<!--END NEW-->
+
+		</div>
+		
+
+	</div>
+</div>
+<script>
+function ajaxRecentComment(str)
+{
+	if(str==1)
+	{
+		var current_recent_comment = $("#current_recent_comment").val();
+		var from = parseInt(current_recent_comment)-parseInt('10');
+		
+	}else{
+		var current_recent_comment = $("#current_recent_comment").val();
+		var from = parseInt(current_recent_comment)+parseInt('10');
+	}
+	var total_recent_comment = $("#total_recent_comment").val();
+	if((from>=0)&&(total_recent_comment>from))
+	{
+		$(".rightpanel_recent_comment").html("Loading...");
+		$.ajax({
+				url: 'https://www.devopscloud.guru/article/ajax_load_recent_comment/'+'comments',
+				type: 'POST',
+				data: "from="+from+"&step="+str,
+				success: function (data) {
+					$(".rightpanel_recent_comment").html("");
+
+					if(str==1)
+					{
+						var nextfrom = parseInt(from);
+						$("#current_recent_comment").val(nextfrom);
+					}else{
+						var nextfrom = parseInt(from);
+						$("#current_recent_comment").val(nextfrom);
+					}
+					$(".rightpanel_recent_comment").html(data);
+				},
+				error: function (e) {
+					alert('Some error occured, Please try again!');
+				}
+			});
+	}
+}
+function ajaxMVArticles(str)
+{
+	if(str==1)
+	{
+		var current_mva = $("#current_mva").val();
+		var from = parseInt(current_mva)-parseInt('15');
+		
+	}else{
+		var current_mva = $("#current_mva").val();
+		var from = parseInt(current_mva)+parseInt('15');
+	}
+	var total_mva = $("#total_mva").val();
+	if((from>=0)&&(total_mva>from))
+	{
+		$(".mvarticles").html("Loading...");
+		$.ajax({
+				url: 'https://www.devopscloud.guru/article/ajax_load_mva/'+'articles',
+				type: 'POST',
+				data: "from="+from+"&step="+str,
+				success: function (data) {
+					$(".mvarticles").html("");
+
+					if(str==1)
+					{
+						var nextfrom = parseInt(from);
+						$("#current_mva").val(nextfrom);
+					}else{
+						var nextfrom = parseInt(from);
+						$("#current_mva").val(nextfrom);
+					}
+					$(".mvarticles").html(data);
+				},
+				error: function (e) {
+					alert('Some error occured, Please try again!');
+				}
+			});
+	}
+}
+</script>
+
+            </div>
+        </div>
+        <!-- /#wrapper -->
+
+<footer>
+    <div class="container-fluid p0"><div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 footer-part">
+	<div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"><div style="color:#85d876;">
+						<p><b><u>Protect Yourself:</u></b></p>
+						<p>Never send money or share your personal information to someone you don’t know.Don’t be tempted to spam.All information and instructions given in this forum is to be used at your own risk.</p>
+					</div></div>
+	<div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"><ul class="footer-nav"><li><a href="..\termsandconditions.html">Terms & Conditions</a></li></ul></div><div class="col-md-12 col-lg-12 col-sm-12 col-xs-12  "><p style="color:#fff;">All the site contents are Copyright © www.devopscloud.guru and the content authors. All rights reserved. All product names are trademarks of their respective companies. The site www.devopscloud.guru is in no way affiliated with any company. Every effort is made to ensure the content integrity. Information used on this site is at your own risk. The content on this site may not be reproduced or redistributed without the express written permission of www.devopscloud.guru or the content authors.</p></div><div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"><p style="color:white;text-align: center;"><u>Disclaimer:</u> We cannot guarantee that the information on this page is 100% correct.</p><p style="color:orange;text-align: center;">Designed & Developed by CHAK</p></div></div></div></footer>
+
+<style>
+
+.navbar-header{margin:0px !important;}
+.sidePadding.col-md-3{width:23%;}
+.sidePadding{padding:0 0;background:transparent;}
+.sidePadding .widget.tutorial-widget{background:transparent;}
+.sidePadding .pagelist{ background:none !important; border:none; }
+.sidePadding .pagelist li{border:none;padding-left:15px;}
+.sidePadding .recommended_course img{width:100%;}
+.sidePadding .recommended_course h4, .sidePadding .tutorial-widget h4, .sidePadding .browse-all-course {background:none;border:none;font-weight:600;margin-bottom:5%;padding-left:0px;padding-top:0px;}
+#page-wrapper .sidePadding .widget{background:#FFF;padding:15px;border:1px solid #ddd;}
+#page-wrapper .sidePadding .testimonial img, #page-wrapper .sidePadding .testimonial .text-outer {padding:15px;border:none !important;}
+#page-wrapper .sidePadding #search-form-iq button[type="submit"] { display: block; height: 30px; width: 35px; color: #3c3c3c; font-size: 20px; line-height: 100%; margin: 1px 16px 0 0; padding: 5px 8px 4px; position: absolute; top: 21px; right: 26px; }
+.sidePadding .searchContainer{padding:20px;background:#FFF;}
+/*.sidePadding .recCourseContainer{padding:20px 0 0 0;background:#FFF;margin:20px 0;}*/
+.sidePadding .recCourseContainer h4{color:#000;margin:0px 0px 10px 0px;}
+.sidePadding .recCourseContainer .browse-all-course{padding:10px 0;border:none !important;margin:-20px auto 10px auto;width:68%;}
+.ipblue {background:#0b99bc !important;}
+.sidePadding .ipblue a {color:#FFF !important;}
+.comfix {clear:both;}
+#page-wrapper #sidebar-right .sidebar-scroll-info.sticky-sidebar-iq { position: fixed; top: 95px; /*width: 300px;*/ width:22.2%; z-index: 999; }
+#page-wrapper div.baqrow{border:2px solid #0b99bc;border-style:double;margin: 0 0 3% 0;cursor:pointer;}
+@media screen and (max-width:480px){
+	#contentnew .new .col-xs-3,#contentnew .new .col-xs-9{width:100%;}
+	.sidePadding{margin-top:2%;margin-left:0px;}
+	.comfix {clear:both;width:98%;margin:0 auto;}
+	.navbar-right { min-height: 100px; }
+	.table-responsive1{ overflow-x: scroll; width:100%; }
+}
+@media screen and (max-width:768px){
+	#contentnew .new .col-xs-3,#contentnew .new .col-xs-9{width:100%;}
+	.sidePadding{margin-top:2%;margin-left:0px;}
+	#page-wrapper .sidePadding #search-form-iq button[type="submit"] {top:36px;}
+	.navbar-right { min-height: 100px; }
+	.table-responsive1{ overflow-x: scroll; width:100%; }
+}
+@media screen and (min-width:641px) and (max-width:768px){
+	.comfix {clear: both;width: 98.5%; margin: -20px auto; position: relative;left: 5px;}
+	.navbar-right { min-height: 100px; }
+.table-responsive1{ overflow-x: scroll; width:100%; }
+}
+@media screen and (max-width:360px){
+	#page-wrapper .sidePadding #search-form-iq button[type="submit"] {top:18px;}
+	.navbar-right { min-height: 100px; }
+.offer h5{ font-size:11px;}
+.table-responsive1{ overflow-x: scroll; width:100%; }
+}
+@media screen and (max-width:640px){
+	#page-wrapper .sidePadding #search-form-iq button[type="submit"] {top:22px;}
+	.comfix {clear: both;width: 98.5%; margin: -20px auto; position: relative;left: 0px;}
+	.navbar-right { min-height: 100px; }
+	#page-wrapper .new .small-desc{margin-top:5%;}
+	.table-responsive1{ overflow-x: scroll; width:100%; }
+}
+@media screen and (max-width:1439px){
+	.topnav>li>a { padding: 0px 5px; }
+	.topnav>li.seperator>a { padding: 0px 5px; }
+}
+.recommended_course h4.widget_title{  }
+.sidePadding .sticky-sidebar-iq .recCourseContainer{ margin: 0 !important; }
+.sidePadding .sticky-sidebar-iq .recCourseContainer{ padding-top: 8px; margin: 0; }
+.sidePadding .sticky-sidebar-iq .recCourseContainer .browse-all-course { padding: 0; padding-bottom: 5px; margin: auto; }
+.sticky-sidebar-iq .enroll{ margin-bottom: 0;  }
+.prabirhandle{ /* position: fixed; */ /* top: 200px;  */ width: 300px;  /* width: 22.2%; */ z-index: 999; animation: 1s ease-out slideUp; }
+.addclass{ top: 2px; width: inherit; position: fixed; /* height:2000px; */ }
+.fixedlogo{ display:none; }
+@media (max-width: 767px){
+	.rightpanel_handle { margin-top:0px!important; }
+	.addclass{ position: relative!important; }
+	.fixedNav{ position: fixed; top: 0px; z-index: 100; width: 100%; }
+	.fixedlogo{ float: left; margin: 16px 4px 14px 25px; font-weight: bold; color: #fff; text-transform:capitalize; display:none; }
+}
+</style>
+<script>
+	
+		
+	jQuery(window).scroll(function() {
+		var viewPortWidth = document.documentElement.clientWidth;
+		var scroll = jQuery(window).scrollTop();
+		var $windowWidth = jQuery(window).outerWidth();
+		/*NEW*/
+		var $pagecontent = jQuery(".pagecontent").height();
+		var $inner_ul = jQuery(".inner_ul").height();
+		var $courseRightPanelNewHeight = jQuery("#sidebar-right").height() + 0;
+
+		var currentStatus = parseInt($pagecontent) - parseInt($inner_ul);
+		var $halfsidebar = parseInt($courseRightPanelNewHeight)/parseInt(2);
+
+		if($inner_ul === undefined || $inner_ul === null || $inner_ul === false)
+		{
+
+		}else{
+
+			if(scroll > $halfsidebar)
+			{
+				var sc = (parseInt(scroll)) - (parseInt($courseRightPanelNewHeight)  + parseInt(40));
+				
+				jQuery(".asideinner").addClass('addclass');
+				jQuery("#sidebar-right").css({'margin-top':sc});
+			}else{
+				
+				jQuery(".asideinner").removeClass('addclass');
+				jQuery("#sidebar-right").css({'margin-top':0});
+			}
+
+			if(scroll > currentStatus){
+					var sc = parseInt(scroll) - parseInt($courseRightPanelNewHeight) + parseInt(100);
+					var maxdown = parseInt($pagecontent) - parseInt($courseRightPanelNewHeight) + parseInt(200);
+					jQuery(".asideinner").removeClass('addclass');
+					if($inner_ul > scroll) {
+					if(parseInt(maxdown)>0){
+					jQuery("#sidebar-right").css({'margin-top':maxdown});
+					}else{
+					jQuery("#sidebar-right").css({'margin-top':0});	
+					}
+					}else{
+						if(parseInt(maxdown)>0){
+						jQuery("#sidebar-right").css({'margin-top':maxdown});
+						}else{
+						jQuery("#sidebar-right").css({'margin-top':0});	
+						}
+					}
+					
+					
+			}
+		}
+
+		
+
+
+		/*FOR MOBILE FIXED NAV BAR*/
+		if(scroll > 200 )
+		{
+			jQuery(".navbar-inverse").addClass('fixedNav');
+			jQuery(".fixedlogo").show();
+			
+			
+		}else{
+			jQuery(".navbar-inverse").removeClass('fixedNav');
+			jQuery(".fixedlogo").hide();
+		}
+
+		/*
+		if((scroll > $courseRightPanelNewHeight)){
+			var sc = parseInt(scroll) - parseInt($courseRightPanelNewHeight);
+			
+			if(scroll > $pagecontent )
+			{
+				var maxdown = parseInt($pagecontent) - parseInt($courseRightPanelNewHeight);
+				jQuery("#sidebar-right").css({'margin-top':maxdown});
+				console.log('N/A Maxdown' + ' ,' + maxdown);
+			}else{
+				jQuery("#sidebar-right").css({'margin-top':sc});
+				console.log('N/A' + ' ,' + sc);
+			}
+		}else{
+			jQuery("#sidebar-right").css({'margin-top':'0px'});
+			console.log('A' + ' ' );
+		}
+
+		
+		$(".rightpanel_handle").addClass('prabirhandle');
+		if(viewPortWidth > 800){
+			if (scroll >= $courseRightPanelNewHeight) {
+					jQuery('#page-wrapper #sidebar-right .sidebar-scroll-info').addClass("sticky-sidebar-iq");
+				}
+				else{
+					jQuery('#page-wrapper #sidebar-right .sidebar-scroll-info').removeClass("sticky-sidebar-iq");
+				
+				}
+			
+		}*/
+			
+    });		
+</script>        <!-- jQuery -->
+        <script src="..\vendor\jquery\jquery.min.js"></script>
+
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="..\vendor\bootstrap\js\bootstrap.min.js"></script>
+
+        <!-- Metis Menu Plugin JavaScript -->
+        <script src="..\vendor\metisMenu\metisMenu.min.js"></script>
+
+        <!-- Custom Theme JavaScript -->
+        <script src="..\dist\js\sb-admin-2.js"></script>
+        <script src="..\ckeditor.js"></script>
+        <script>
+                                jQuery(document).ready(function () {
+
+                                    var config = {/*extraPlugins: 'confighelper', */extraPlugins: 'autolink', toolbar: 'Basic', height: 'auto', width: '100%', language: 'en'};
+
+                                    CKEDITOR.replace('comment', config);
+                                    $("#cke_1_top").hide();
+
+
+
+
+                                });
+
+                                if (location.href.indexOf("#") != -1) {
+
+                                    var pagecontent = jQuery(".page_article_area").height() + parseInt(400);
+
+                                    $("html, body").animate({scrollTop: pagecontent}, "slow");
+                                }
+
+
+        </script>
+        <script>
+            $(document).ready(function () {
+                $("#comments-form").submit(function (e) {
+                    e.preventDefault();
+                    var form = $(this);
+                    var url = form.attr('action');
+                    var comment = CKEDITOR.instances['comment'].getData();
+                    var fileInputs = $('.file_input');
+                    var formData = new FormData();
+                    var isImage = 0;
+                    $.each(fileInputs, function (i, fileInput) {
+                        if (fileInput.files.length > 0) {
+                            $.each(fileInput.files, function (k, file) {
+                                formData.append('attachement[]', file);
+                                isImage = 1;
+                            });
+                        }
+                    });
+
+                    formData.append('comment', comment);
+                    
+
+                    $.ajax({
+                        type: "POST",
+                        url: url,
+                        data: formData,
+                        contentType: false,
+                        processData: false,
+                        success: function (data)
+                        {
+                            
+                            var response = JSON.parse(data);
+
+                            if (response.status == 1)
+                            {
+                                
+                                $("#comments-area").prepend(response.html);
+                                $("#total_comments").html('Comments (' + response.total + ')');
+                                $("#article_comments").html('' + response.total + ' Comments');
+                                $('#comments-form')[0].reset();
+                                CKEDITOR.instances['comment'].setData('');
+
+                                if (isImage === 1)
+                                {
+                                    $(".delete_button").click();
+                                    $(".row_files").not(':first').remove();
+                                    var shtml = '';
+                                    shtml = '<div class="col-md-6"><div class="form-group"><input type="file" name="attachement[]" class="file_input" id="first_file" onchange="ValidateSingleInput(this);"><div class="help-block with-errors" id="file_err" style="display:none;">Invalid File.</div></div></div>';
+                                    $(".row_files").html('' + shtml);
+
+                                }
+                                $("#submit").attr('disabled', false);
+                            } else {
+                                $('#comments-form')[0].reset();
+                                $("#submit").attr('disabled', false);
+                            }
+
+                        }
+                    });
+
+
+                });
+
+            });
+
+
+            $('input[type="file"]').change(function () {
+                $("#add_more").css("display", "block");
+            });
+            function more_files()
+            {
+                var more_file = '<div class="row files row_files" ><div class="col-md-6" id="files"><div class="form-group"><input type="file" name="attachement[]" class="file_input" onchange="ValidateSingleInput(this);"></div></div></div>';
+                $(".files").last().after(more_file);
+            }
+
+            var _validFileExtensions = [".js", ".exe"];
+            function ValidateSingleInput(oInput) {
+                if (oInput.type == "file") {
+                    var sFileName = oInput.value;
+                    if (sFileName.length > 0) {
+                        var blnValid = false;
+                        for (var j = 0; j < _validFileExtensions.length; j++) {
+                            var sCurExtension = _validFileExtensions[j];
+                            if (sFileName.substr(sFileName.length - sCurExtension.length, sCurExtension.length).toLowerCase() == sCurExtension.toLowerCase()) {
+                                blnValid = true;
+                                $("#file_err").css('display', 'none');
+
+                                break;
+                            }
+                        }
+
+                        if (blnValid) {
+                            oInput.value = "";
+                            $("#file_err").css('display', 'block');
+                            return false;
+                        }
+                    }
+
+                    $(oInput).after('<span class="fa fa-trash delete_button" style="color:red;" onclick="attachFileDelete(this);"> Delete </span>');
+                }
+                return true;
+            }
+
+            function attachFileDelete(id)
+            {
+                $(id).parent().remove();
+            }
+            
+            function check_validation()
+            {
+
+                var userid = '';
+                var userid = '';
+                var lockstatus = '';
+                $('.comment_message_error').hide();
+                if (userid === '')
+                {
+                    $('.comment_message_error').show();
+                    $('.comment_message_error').html("You must be logged in to Post a comment.");
+                    return false;
+                } else if (lockstatus === 1) {
+                    $('.comment_message_error').show();
+                    $('.comment_message_error').html("Comment has been disabled for this Article.");
+                    return false;
+                } else {
+                    return true;
+                }
+
+            }
+
+            function ajaxPushThumb(status, articleid)
+            {
+                if (status != '' && articleid != '') {
+                    $.ajax({
+                        type: 'post',
+                        url: 'https://www.devopscloud.guru/article/ajaxPushThumb' + '/thumb',
+                        data: {status: status, article_id: articleid},
+                        success: function (data) {
+                            var response = JSON.parse(data);
+                            if (response.status === 1)
+                            {
+                                $(".thumbs-up").html('' + response.thumbs_up);
+                                $(".thumbs-down").html('' + response.thumbs_down);
+                                if (response.thumbs == 1)
+                                {
+                                    $(".fa-thumbs-up").addClass('active');
+                                    $(".fa-thumbs-down").removeClass('active');
+                                } else if (response.thumbs == 2) {
+                                    $(".fa-thumbs-down").addClass('active');
+                                    $(".fa-thumbs-up").removeClass('active');
+                                } else {
+
+                                }
+
+                            }
+                        }
+                    });
+
+                }
+
+            }
+
+            function ajaxCommentPushThumb(status, commentid, articleid)
+            {
+                if (status != '' && commentid != '' && articleid != '') {
+                    $.ajax({
+                        type: 'post',
+                        url: 'https://www.devopscloud.guru/article/ajaxCommentPushThumb' + '/thumb',
+                        data: {status: status, comment_id: commentid, article_id: articleid},
+                        success: function (data) {
+                            var response = JSON.parse(data);
+                            if (response.status === 1)
+                            {
+                                $(".comment-thumbs-up-" + commentid).html('' + response.thumbs_up);
+                                $(".comment-thumbs-down-" + commentid).html('' + response.thumbs_down);
+                                if (response.thumbs == 1)
+                                {
+                                    $(".fa-thumbs-up").addClass('active');
+                                    $(".fa-thumbs-down").removeClass('active');
+                                } else if (response.thumbs == 2) {
+                                    $(".fa-thumbs-down").addClass('active');
+                                    $(".fa-thumbs-up").removeClass('active');
+                                } else {
+
+                                }
+
+                            }
+                        }
+                    });
+
+                }
+
+            }
+
+            function ajaxCommentSearch(id)
+            {
+
+                var total = $("#total_val").val();
+                var from = 0;
+                $("#comments-area").html("Loading...");
+                $.ajax({
+                    url: 'https://www.devopscloud.guru/article/ajax_search_comment/' + '/comments',
+                    type: 'POST',
+                    data: "from=" + from + "&article_id=" + $("#article_id").val() + "&search_option=" + id,
+                    success: function (data) {
+                        $("#comments-area").html("");
+                        $("#comments-area").html(data);
+                        $(".append_area").html('');
+                        if (total == 0)
+                        {
+                            $("#load_more").hide();
+                        } else {
+                            $("#load_more").show();
+                        }
+                        $("#from_val").val(10);
+
+                    },
+                    error: function (e) {
+                        alert('Some error occured, Please try again!');
+                    }
+                });
+            }
+
+            function ajaxRedirectBack()
+            {
+                $.ajax({
+                    url: 'https://www.devopscloud.guru/article/ajaxRedirectBack' + '/redirect',
+                    type: 'POST',
+                    data: "link=" + 'http://www.devopscloud.guru/list-down-the-components-of-openstack-compute/271' + '#',
+                    success: function (data) {
+                        /* window.open("https://www.devopscloud.guru/login"); */
+                    },
+                    error: function (e) {
+                        alert('Some error occured, Please try again!');
+                    }
+                });
+            }
+            function ajaxLoadComment()
+            {
+
+            }
+            $(document).ready(function () {
+                var article_id = $("#article_id").val();
+                $.ajax({
+                    type: 'post',
+                    url: '/viewcount/incrementcount/1',
+                    data: {id: article_id},
+                    success: function (data) {
+                        console.log(data)
+                    }
+                });
+            });
+        </script>
+        <script>
+            ajax_comment_listing();
+            /* FIRST TIME PAGELOAD COMMENT LISTING */
+            function ajax_comment_listing()
+            {
+                var total = $("#total_val").val();
+                var from = $("#from_val").val();
+                var id = $("#search_option").val();
+                $("#comments-area").html("Loading...");
+                $.ajax({
+                    url: 'https://www.devopscloud.guru/article/ajax_load_comment/' + '/comments',
+                    type: 'POST',
+                    data: "from=0" + "&article_id=" + $("#article_id").val() + "&search_option=" + id,
+                    success: function (data) {
+
+                        $("#comments-area").html("");
+                        $("#comments-area").html(data);
+
+
+                        $(".append_area").html('');
+                        if (total == 0)
+                        {
+                            $("#load_more").hide();
+                        } else {
+                            $("#load_more").show();
+                        }
+
+
+                    },
+                    error: function (e) {
+                        alert('Some error occured, Please try again!');
+                    }
+                });
+                /*}else{
+                 $("#load_more").hide();
+                 }*/
+            }
+
+            function ajax_comments_load() {
+                var total = $("#total_val").val();
+                var from = $("#from_val").val();
+                var id = $("#search_option").val();
+                if (Number(total) > Number(from)) {
+                    $.ajax({
+                        url: 'https://www.devopscloud.guru/article/ajax_load_comment/' + '/comments',
+                        type: 'POST',
+                        data: "from=" + from + "&article_id=" + $("#article_id").val() + "&search_option=" + id,
+                        success: function (data) {
+                            var sum = Number(from) + Number('10');
+                            $(".append_area").append(data);
+
+                            $("#from_val").val(sum);
+                        },
+                        error: function (e) {
+                            alert('Some error occured, Please try again!');
+                        }
+                    });
+                } else {
+                    $("#load_more").hide();
+                }
+            }
+
+            function displayfeedback()
+            {
+                var rating = document.getElementById('rating');
+                var feedback = document.getElementById('feedback');
+                rating.style.display = 'none';
+                feedback.style.display = 'block';
+            }
+        </script>
+    </div></body>
+
+</html> 
+
+

@@ -1,0 +1,413 @@
+
+
+
+.heading {
+    font-size: 24px;
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .heading {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+
+    .tnc {
+        font-size: 10px;
+    }
+}
+
+.comment-row {
+    /*border-bottom: #e0dfdf 1px solid;*/
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.pbrdr {
+    border-bottom: #e0dfdf 1px solid;
+}
+
+.outer-comment {
+    background: #F0F0F0;
+    padding: 20px;
+    border: #dedddd 1px solid;
+}
+
+span.commet-row-label {
+    font-style: italic;
+}
+
+span.posted-by {
+    color: #09F;
+    font-size: 14px;
+}
+
+.comment-info {
+    font-size: 0.8em;
+}
+
+.comment-text {
+    margin: 10px 0px;
+}
+
+.make_align {
+    width: 15%;
+    float: left;
+}
+
+.make_align_r {
+    width: 75%;
+    float: left;
+}
+
+.replie-row {
+    /*border-bottom: #e0dfdf 1px solid;*/
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+span.replie-row-label {
+    font-style: italic;
+}
+
+.replie-info {
+    font-size: 0.8em;
+}
+
+.replie-text {
+    margin: 0px 0px;
+}
+
+.topBorderReply {
+    clear: both;
+    border-top: 1px solid #e0dfdf;
+}
+
+.sortByQues {
+    margin-left: 0px !important;
+    width: 100%;
+}
+
+.flLeft {
+    float: left !important;
+}
+
+.flRight {
+    float: right !important;
+}
+
+.sortByQues li {
+    display: inline;
+}
+
+.font18 {
+    font-size: 18px !important;
+    word-wrap: break-word;
+}
+.font16 {
+    font-size: 16px !important;
+}
+
+.font14 {
+    font-size: 14px !important;
+}
+
+.font12 {
+    font-size: 12px !important;
+}
+
+.margin15 {
+    margin-left: 15px;
+}
+
+.margin30 {
+    margin-left: 15px !important;
+}
+
+.margin0 {
+    margin-left: 0px !important;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.qasrch {
+    width: 85%;
+    float: left;
+}
+
+.qasrchflotright {
+    float: left;
+}
+
+.highlightCatMnu {
+    font-size: 18px !important;
+    color: #a50500 !important;
+    font-weight: bold;
+}
+
+.ffd:hover {
+    text-decoration: none;
+    color: #a50500;
+}
+
+#showWhatFor {
+    font-size: 20px;
+    color:#5aa00d;
+}
+
+.userNameInfo {
+    font-size: 12px !important;
+    color: #a5282c;
+}
+.infoFont {
+    font-size: 12px !important;
+}
+
+.btnLoadMore {
+    width: 100%;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+}
+
+/* rotate caret on hover */
+.dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+}
+
+/* Set the maximum width of the menu wrapper */
+#category-menu {
+    max-width: 150px;
+}
+
+/* we remove the margin, padding and list styles of the ul li list */
+#category-menu ul, #category-menu ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.typeahead li:hover {
+    color: #000000 !important;
+}
+
+/* Adding the border to the parent ul and remove the border bottom */
+#category-menu > ul {
+    /*border:solid 1px #000;*/
+    border-bottom: none;
+    /*background:#f5fec2;*/
+}
+
+.ul-subcategory {
+    border: solid 1px #337ab7;
+    /*border-bottom: none;*/
+    /*background:#f5fec2;*/
+}
+
+/* Apply border bottom to the first level of li list only */
+#category-menu > ul > li {
+    /*border-bottom:solid 1px #000;*/
+}
+
+/* Styling for all links inside the category menu */
+#category-menu ul li a {
+    font-size: 12px;
+    color: #337ab7;
+    text-decoration: none;
+    font-family: arial;
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+}
+
+/* set the padding space and position for all li list */
+#category-menu ul li {
+    padding: 5px 0px;
+    position: relative;
+}
+
+/* hiding the ul 2nd and 3rd levels */
+#category-menu ul li ul, #category-menu ul li ul li ul {
+    display: none;
+}
+
+/* styling the color for the 2nd level ul */
+#category-menu > ul > li > ul {
+    background: #fff;
+    margin: 5px 0;
+    position: absolute;
+    width: 170px;
+    z-index: 10;
+    padding-left: 10px;
+
+}
+
+/* styling the color for the 3rd level ul */
+#category-menu > ul > li > ul > li > ul {
+    background: #ade5f5;
+    margin: 10px 0;
+}
+
+/* styling the arrows style */
+span.arrow, span.arrow-down {
+    background: url('../img/down-icn.png') no-repeat;
+    width: 12px;
+    height: 8px;
+    display: inline-block;
+    position: absolute;
+    right: -20px;
+    top: 10px;
+}
+
+.dropdorn-form-control {
+    display: block;
+    width: 100%;
+    /* height: 34px; */
+    padding: 0px 5px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #347ab7;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+span.arrow-down {
+    background: url('../img/down-icn.png') no-repeat;
+}
+
+span.arrow-up {
+    background: url('../img/up-icn.png') no-repeat;
+}
+
+.divBorder {
+    padding: 10px;
+    /*margin: 2px;*/
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: 4px;
+    line-height: 25px;
+    margin-bottom: 10px;
+
+}
+
+.divBorderreply {
+    padding: 10px;
+    margin: 2px;
+    background-color: rgba(255, 255, 0, 0.15);
+    border: 1px solid rgba(0, 0, 0, .20);
+    border-radius: 4px;
+    line-height: 25px;
+    margin-bottom: 10px;
+
+}
+
+.borderLineTop {
+    border-top: 1px solid #00000033;
+}
+
+.modal-login {
+    width: 320px;
+}
+
+.modal-login .modal-content {
+    border-radius: 1px;
+    border: none;
+}
+
+.modal-login .modal-header {
+    position: relative;
+    justify-content: center;
+    background: #f2f2f2;
+}
+
+.modal-login .modal-body {
+    padding: 30px;
+}
+
+.modal-login .modal-footer {
+    background: #f2f2f2;
+}
+
+.modal-login h4 {
+    text-align: center;
+    font-size: 26px;
+}
+
+.modal-login label {
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.modal-login .form-control, .modal-login .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+
+.modal-login .hint-text {
+    text-align: center;
+}
+
+.modal-login .close {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.modal-login .checkbox-inline {
+    margin-top: 12px;
+}
+
+.modal-login input[type="checkbox"] {
+    margin-top: 2px;
+}
+
+.modal-login .btn {
+    min-width: 100px;
+    background: #3498db;
+    border: none;
+    line-height: normal;
+}
+
+.modal-login .btn:hover, .modal-login .btn:focus {
+    background: #248bd0;
+}
+
+.modal-login .hint-text a {
+    color: #999;
+}
+
+.trigger-btn {
+    display: inline-block;
+    margin: 100px auto;
+}
+

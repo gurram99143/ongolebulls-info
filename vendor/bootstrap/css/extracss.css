@@ -1,0 +1,149 @@
+
+/* General Css */
+
+body{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.p0{
+  padding:0px;
+}
+
+.table-hover > tbody > tr:hover {
+ 
+    background-color: #f9f779 ;
+
+}
+
+.footer-part{
+background-color: #44444c;
+padding: 3% 0px;
+}
+
+.footer-nav{
+list-style:none;padding:0px;
+}
+
+
+
+.footer-nav li a{
+color:#fff;
+text-decoration:none;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+background-color:#f9f779 !important;
+}
+
+.offer{
+  background-color:orange;
+  color: white;
+  padding:0px 0px 7px 0px;
+}
+
+#close {
+    position: absolute;
+    right: 11px;
+    top: 9px;
+}
+.offer h5 {
+    margin-top: 1%;
+    margin-bottom: 3px;
+       font-size: 12px;
+}
+
+.offer .btn{
+    border-radius: 0px;
+    padding: 4px 5px;
+    font-size: 11px;
+}
+.offer .btn-primary{
+    border-radius: 0px;
+    padding: 4px 5px;
+    font-size: 11px;
+}
+.offer .btn-xs{
+    border-radius: 0px;
+    padding: 4px 5px;
+    font-size: 11px;
+}
+
+
+.countdownsec {
+    display: inline-block;
+    width: auto;
+}
+
+ul.countdown {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul.countdown li {
+    display: inline-block;
+}
+
+.digit {
+    padding: 5px;
+    background-color: #e2a83e;
+}
+
+.text {
+    padding-right: 5px;
+}
+
+.navbar-inverse {
+    background-color: #337ab7;
+    border-color: #337ab7;
+    border-radius: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-inverse i.fa.fa-search {
+    position: relative;
+    top: 15px;
+    left: 25px;
+    color: white;
+    cursor: pointer;
+}
+
+.fa.fa-search.serc {
+    position: absolute;
+    top: 9px;
+}
+
+.search{
+  color:white;
+}
+
+.fa-times#search {
+    position: absolute;
+    top: 17px;
+    right: 25%;
+    color: white;
+}
+
+input.form-control.ser {
+    background-color: transparent;
+    border: 0px;
+    border-radius: 0px;
+    box-shadow: unset;
+    border-bottom: 2px solid white;
+    color:white;
+    padding-left: 29px;
+}
+input.form-control.ser::placeholder {
+    color: white;
+}
+
+.dataTables_info{
+padding:20px;
+}
+
+#dataTables-example_paginate {
+    text-align: right;
+}

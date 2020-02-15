@@ -1,0 +1,2032 @@
+Uri: https://www.devopscloud.guru/
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\index.htm
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/vendor/metisMenu/metisMenu.min.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\metisMenu\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/dist/css/sb-admin-2.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\css\sb-admin-2.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/vendor/morrisjs/morris.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\morrisjs\morris.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/css/animations.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\css\animations.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/vendor/font-awesome/css/font-awesome.min.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/css/extracss.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\css\extracss.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/login
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\login.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/register
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\register.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/ask-questions-answer-questions
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\ask-questions-answer-questions.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/ansible/1
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\ansible\1.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/bitbucket/2
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\bitbucket\2.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/chef/3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\chef\3.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/dockers/4
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dockers\4.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/git/5
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\git\5.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/jenkins/6
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\jenkins\6.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/jfrog/7
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\jfrog\7.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/jira/8
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\jira\8.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/kubernetes/9
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kubernetes\9.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/maven/10
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\maven\10.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/nagios/11
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\nagios\11.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/nexus/12
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\nexus\12.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/openshift/13
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\openshift\13.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/puppet/14
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\puppet\14.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/saltstack/15
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\saltstack\15.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/sonarqube/16
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\sonarqube\16.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/splunk/17
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\splunk\17.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/terraform/18
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\terraform\18.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/vagrant/19
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vagrant\19.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/aws/20
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\aws\20.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/azure/21
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\azure\21.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/cloud-foundry/22
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\cloud-foundry\22.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/gcp/23
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\gcp\23.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/iac/24
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\iac\24.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/iaas/25
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\iaas\25.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/openstack/26
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\openstack\26.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/paas/27
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\paas\27.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/packer/28
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\packer\28.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/saas/29
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\saas\29.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/amazon-redshift/30
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\amazon-redshift\30.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/apache-cassandra/31
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\apache-cassandra\31.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/amazon-dynamodb/32
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\amazon-dynamodb\32.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/mongodb/33
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\mongodb\33.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/mysql/34
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\mysql\34.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/oracle/35
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\oracle\35.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/postgresql/36
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\postgresql\36.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/amazon-rds/37
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\amazon-rds\37.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/sql-server/38
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\sql-server\38.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/dotnet/39
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dotnet\39.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/java/40
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\java\40.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/golang/41
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\golang\41.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/groovy/42
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\groovy\42.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/junit/43
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\junit\43.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/powershell/44
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\powershell\44.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/python/45
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\python\45.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/ruby/46
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\ruby\46.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/selenium/47
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\selenium\47.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/shell-scripting/48
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\shell-scripting\48.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/yaml/49
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\yaml\49.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/linux/50
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\linux\50.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/macos/51
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\macos\51.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/virtualbox/52
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\virtualbox\52.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/vmware/53
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vmware\53.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/windows/54
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\windows\54.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/artificial-intelligence/55
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\artificial-intelligence\55.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/machine-learning/56
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\machine-learning\56.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/free-online-courses/59
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\free-online-courses\59.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-remove-delete-directory-in-linux/363
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-remove-delete-directory-in-linux\363.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-make-a-new-directory-in-linux/362
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-make-a-new-directory-in-linux\362.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-aws/361
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-aws\361.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/real-time-shell-scripts/360
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\real-time-shell-scripts\360.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/microsoft-azure-administrator-exam-az-103/359
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\microsoft-azure-administrator-exam-az-103\359.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-microsoft-azure-cloud-service/358
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-microsoft-azure-cloud-service\358.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-python/357
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-python\357.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-devops/356
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-devops\356.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/unable-to-get-docker-linux-repo-in-aws-cloud/355
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\unable-to-get-docker-linux-repo-in-aws-cloud\355.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-start-your-devops-and-cloud-career/354
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-start-your-devops-and-cloud-career\354.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-amazon-s3-simple-storage-service/353
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-amazon-s3-simple-storage-service\353.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-configure-azure-portal-auto-logout-after-period-of-inactivity/352
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-configure-azure-portal-auto-logout-after-period-of-inactivity\352.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-logoff-windows-from-command-line/351
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-logoff-windows-from-command-line\351.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-windows-powershell/350
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-windows-powershell\350.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-login-to-microsoft-azure-portal/349
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-login-to-microsoft-azure-portal\349.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/quick-overview-of-kubernetes-basics/348
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\quick-overview-of-kubernetes-basics\348.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-does-azure-data-factory-work/347
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-does-azure-data-factory-work\347.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-azure-data-factory/346
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-azure-data-factory\346.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-add-favorites-in-azure-portal/345
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-add-favorites-in-azure-portal\345.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-makes-docker-different-from-other-container-technologies/344
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-makes-docker-different-from-other-container-technologies\344.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-purpose-of-dockerfile/343
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-purpose-of-dockerfile\343.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-swarm/342
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-swarm\342.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-registries/341
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-registries\341.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-hub/340
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-hub\340.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-image/339
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-image\339.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-engine/338
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-engine\338.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-container/337
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-container\337.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-docker-architecture/336
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-docker-architecture\336.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-docker/335
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-docker\335.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker-for/334
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker-for\334.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker/333
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker\333.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-devops-services/332
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-devops-services\332.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-multiple-database-services/331
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-multiple-database-services\331.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-storage-services/330
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-storage-services\330.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-networking-features/329
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-networking-features\329.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/overview-of-azure-services/328
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\overview-of-azure-services\328.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-can-we-do-on-azure/327
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-can-we-do-on-azure\327.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-should-we-move-to-the-cloud/326
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-should-we-move-to-the-cloud\326.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-azure/325
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-azure\325.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-portal/324
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-portal\324.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-resource-manager/323
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-resource-manager\323.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-resource-groups-in-microsoft-azure/322
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-resource-groups-in-microsoft-azure\322.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-availability-zones-in-microsoft-azure/321
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-availability-zones-in-microsoft-azure\321.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-regions-in-microsoft-azure/320
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-regions-in-microsoft-azure\320.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/a-guide-to-the-kubernetes-networking-model/319
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\a-guide-to-the-kubernetes-networking-model\319.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-kubernetes-service/318
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-kubernetes-service\318.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-container-instances/317
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-container-instances\317.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-containers-in-azure/316
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-containers-in-azure\316.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-functions/315
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-functions\315.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-app-services/314
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-app-services\314.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-vm-scale-sets/313
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-vm-scale-sets\313.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-vms/312
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-vms\312.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-virtual-machines/311
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-virtual-machines\311.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-azure-compute-service/310
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-azure-compute-service\310.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-saas/309
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-saas\309.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-paas/308
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-paas\308.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-iaas/307
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-iaas\307.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-public-cloud-private-cloud-and-hybrid-cloud/306
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-public-cloud-private-cloud-and-hybrid-cloud\306.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-hybrid-cloud/305
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-hybrid-cloud\305.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-private-cloud/304
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-private-cloud\304.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-public-cloud/303
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-public-cloud\303.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-cloud-computing/302
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-cloud-computing\302.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/aws-security-groups-vs-network-acls/301
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\aws-security-groups-vs-network-acls\301.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/understanding-aws-regions-and-availbility-zones/300
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\understanding-aws-regions-and-availbility-zones\300.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-install-iis-internet-information-services-on-windows/298
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-install-iis-internet-information-services-on-windows\298.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/linux-networking-and-troubleshooting-commands/297
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\linux-networking-and-troubleshooting-commands\297.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-grep-commands/296
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-grep-commands\296.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-is-linux-considered-as-more-secured-than-windows/295
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-is-linux-considered-as-more-secured-than-windows\295.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-shell-script/294
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-shell-script\294.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-work-of-ctrl-alt-del-key-combination-on-linux-operating-system/293
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-work-of-ctrl-alt-del-key-combination-on-linux-operating-system\293.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-linux-directory-commands/292
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-linux-directory-commands\292.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-3-kinds-of-file-permissions-under-linux/291
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-3-kinds-of-file-permissions-under-linux\291.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-term-cli-in-linux/290
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-term-cli-in-linux\290.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-understand-by-root-account-in-linux/289
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-understand-by-root-account-in-linux\289.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-features-of-linux-operating-system/288
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-features-of-linux-operating-system\288.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-linux/287
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-linux\287.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/differentiate-between-linux-and-unix/286
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\differentiate-between-linux-and-unix\286.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-linux/285
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-linux\285.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-microsoft-sql-server-and-what-is-it-used-for/284
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-microsoft-sql-server-and-what-is-it-used-for\284.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-relational-database-service-rds/283
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-relational-database-service-rds\283.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-postgresql-why-use-postgresql/282
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-postgresql-why-use-postgresql\282.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-oracle-database-oracle-db/281
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-oracle-database-oracle-db\281.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-mysql/280
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-mysql\280.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-mongodb/279
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-mongodb\279.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-dynamodb/278
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-dynamodb\278.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-apache-cassandra/277
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-apache-cassandra\277.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-redshift/276
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-redshift\276.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-saas/275
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-saas\275.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-iaas/274
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-iaas\274.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-infrastructure-as-code-iac/273
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-infrastructure-as-code-iac\273.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/brief-introduction-to-splunk/272
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\brief-introduction-to-splunk\272.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-down-the-components-of-openstack-compute/271
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-down-the-components-of-openstack-compute\271.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/define-bare-metal-node/270
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\define-bare-metal-node\270.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-in-brief-the-modular-architecture-of-openstack/269
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-in-brief-the-modular-architecture-of-openstack\269.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-openstack-python-sdk/268
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-openstack-python-sdk\268.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/define-the-networking-managers-in-openstack-cloud/267
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\define-the-networking-managers-in-openstack-cloud\267.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/define-identity-service-in-openstack/266
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\define-identity-service-in-openstack\266.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-key-components-of-openstack/265
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-key-components-of-openstack\265.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-benefits-of-using-openstack-cloud/264
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-benefits-of-using-openstack-cloud\264.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/describe-openstack/263
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\describe-openstack\263.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-is-aws-cloudformation-different-from-aws-elastic-beanstalk/262
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-is-aws-cloudformation-different-from-aws-elastic-beanstalk\262.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-cloudformation-in-aws-devops/261
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-cloudformation-in-aws-devops\261.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-infrastructure-as-code-in-aws-devops/260
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-infrastructure-as-code-in-aws-devops\260.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-microservices-in-aws-devops/259
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-microservices-in-aws-devops\259.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-continuous-delivery-in-aws-devops/258
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-continuous-delivery-in-aws-devops\258.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-continuous-integration-in-aws-devops/257
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-continuous-integration-in-aws-devops\257.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-devops-practices/256
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-devops-practices\256.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-adopt-a-aws-devops-model/255
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-adopt-a-aws-devops-model\255.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-aws-devops-matters/254
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-aws-devops-matters\254.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-types-of-applications-can-you-build-with-aws-codestar/253
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-types-of-applications-can-you-build-with-aws-codestar\253.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-happens-when-a-build-is-run-in-codebuild-in-aws-devops/252
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-happens-when-a-build-is-run-in-codebuild-in-aws-devops\252.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/which-programming-frameworks-does-codebuild-support-in-aws-devops/251
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\which-programming-frameworks-does-codebuild-support-in-aws-devops\251.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-configure-a-build-project-in-aws-devops/250
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-configure-a-build-project-in-aws-devops\250.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-build-project-in-aws-devops/249
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-build-project-in-aws-devops\249.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-aws-codedeploy-in-aws-devops/248
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-aws-codedeploy-in-aws-devops\248.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-iot-in-aws-devops/247
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-iot-in-aws-devops\247.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-quicksight-in-aws-devops/246
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-quicksight-in-aws-devops\246.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-lambda-in-aws-devops/245
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-lambda-in-aws-devops\245.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-rds-in-aws-devops/244
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-rds-in-aws-devops\244.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-s3-in-aws-devops/243
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-s3-in-aws-devops\243.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-ec2-in-aws-devops/242
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-ec2-in-aws-devops\242.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-aws-codebuild-in-aws-devops/241
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-aws-codebuild-in-aws-devops\241.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-codecommit-in-aws-devops/240
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-codecommit-in-aws-devops\240.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-aws-developer-tools/239
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-aws-developer-tools\239.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-lambda-in-aws-devops/238
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-lambda-in-aws-devops\238.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-elastic-container-service-in-aws-devops/237
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-elastic-container-service-in-aws-devops\237.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-codestar-in-aws-devops/236
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-codestar-in-aws-devops\236.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-codedeploy-in-aws-devops/235
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-codedeploy-in-aws-devops\235.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-codebuild-in-aws-devops/234
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-codebuild-in-aws-devops\234.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-aws-codepipeline-in-aws-devops/233
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-aws-codepipeline-in-aws-devops\233.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-handle-continuous-integration-and-continuous-delivery-in-aws-devops/232
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-handle-continuous-integration-and-continuous-delivery-in-aws-devops\232.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-aws-for-devops/231
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-aws-for-devops\231.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-devops-with-cloud-computing/230
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-devops-with-cloud-computing\230.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-role-of-a-devops-engineer/229
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-role-of-a-devops-engineer\229.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-amazon-web-services-in-devops/228
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-amazon-web-services-in-devops\228.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-configuring-automatic-builds-in-jenkins/227
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-configuring-automatic-builds-in-jenkins\227.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-create-a-job-in-jenkins/226
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-create-a-job-in-jenkins\226.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-blue-ocean-in-jenkins/225
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-blue-ocean-in-jenkins\225.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-create-multibranch-pipeline-in-jenkins/224
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-create-multibranch-pipeline-in-jenkins\224.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-jenkinsfile/223
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-jenkinsfile\223.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-pipelines-in-jenkins/222
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-pipelines-in-jenkins\222.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-schedule-a-build-in-jenkins/221
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-schedule-a-build-in-jenkins\221.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/which-scm-tools-jenkins-supports/220
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\which-scm-tools-jenkins-supports\220.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-maven-ant-and-jenkins/219
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-maven-ant-and-jenkins\219.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-tool-used-for-provisioning-and-configuration/218
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-tool-used-for-provisioning-and-configuration\218.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-continuous-integration-and-deployment/217
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-continuous-integration-and-deployment\217.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-dsl-jenkins/216
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-dsl-jenkins\216.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-jenkins-pipeline/215
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-jenkins-pipeline\215.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-build-pipeline-in-jenkins/214
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-build-pipeline-in-jenkins\214.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-ci-cd-pipeline/213
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-ci-cd-pipeline\213.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-ci-tools/212
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-ci-tools\212.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-jenkins-with-selenium/211
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-jenkins-with-selenium\211.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-meant-by-continuous-integration-in-jenkins/210
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-meant-by-continuous-integration-in-jenkins\210.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-hudson-and-jenkins/209
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-hudson-and-jenkins\209.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-maven-and-what-is-jenkins/208
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-maven-and-what-is-jenkins\208.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-jenkins/207
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-jenkins\207.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-log-monitoring-and-management-with-nagios/206
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-log-monitoring-and-management-with-nagios\206.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-storage-monitoring-with-nagios/205
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-storage-monitoring-with-nagios\205.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-application-server-monitoring-with-nagios/204
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-application-server-monitoring-with-nagios\204.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-virtualization-with-nagios/203
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-virtualization-with-nagios\203.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-cloud-computing-and-cloud-monitoring-with-nagios/202
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-cloud-computing-and-cloud-monitoring-with-nagios\202.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/nagios-supports-which-os-monitoring/201
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\nagios-supports-which-os-monitoring\201.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-operating-system-os-monitoring-with-nagios/200
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-operating-system-os-monitoring-with-nagios\200.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/nagios-supports-which-protocol-monitoring/199
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\nagios-supports-which-protocol-monitoring\199.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/which-databases-supports-nagios/198
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\which-databases-supports-nagios\198.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-database-monitoring-with-nagios/197
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-database-monitoring-with-nagios\197.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-ssl-certificate-monitoring-with-nagios/196
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-ssl-certificate-monitoring-with-nagios\196.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-http-monitoring-with-nagios/195
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-http-monitoring-with-nagios\195.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-website-monitoring-with-nagios/194
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-website-monitoring-with-nagios\194.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-process-of-website-monitoring-with-nagios/193
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-process-of-website-monitoring-with-nagios\193.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-nagios-network-analyzer/192
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-nagios-network-analyzer\192.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-nagios-log-server/191
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-nagios-log-server\191.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-using-nagios/190
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-using-nagios\190.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/can-nagios-monitor-windows-machine/189
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\can-nagios-monitor-windows-machine\189.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-plugin-in-nagios/188
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-plugin-in-nagios\188.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-does-nagios-use-to-monitor/187
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-does-nagios-use-to-monitor\187.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-nagios-monitoring-tool-in-linux/186
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-nagios-monitoring-tool-in-linux\186.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-nagios/185
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-nagios\185.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-k8s/184
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-k8s\184.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-docker-in-cloud/183
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-docker-in-cloud\183.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-docker/182
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-docker\182.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-openshift/181
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-openshift\181.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-swarm-in-docker/180
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-swarm-in-docker\180.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-cluster-in-kubernetes/179
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-cluster-in-kubernetes\179.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-orchestration-in-software/178
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-orchestration-in-software\178.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-meaning-of-kubernetes/177
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-meaning-of-kubernetes\177.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubernetes-and-how-to-use-it/176
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubernetes-and-how-to-use-it\176.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-disadvantages-of-python/175
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-disadvantages-of-python\175.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-advantages-of-python/174
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-advantages-of-python\174.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-negative-index-in-python/173
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-negative-index-in-python\173.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-convert-a-list-into-a-string/172
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-convert-a-list-into-a-string\172.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-debug-a-python-program/171
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-debug-a-python-program\171.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-ansible-and-vagrant/170
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-ansible-and-vagrant\170.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-vagrant-virtualbox/169
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-vagrant-virtualbox\169.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-vagrant-image/168
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-vagrant-image\168.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-vagrant-in-devops/167
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-vagrant-in-devops\167.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-multi-machine-environment-in-vagrant/166
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-multi-machine-environment-in-vagrant\166.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-provisioning-in-vagrant/165
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-provisioning-in-vagrant\165.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-vagrantfile/164
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-vagrantfile\164.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-vagrant/163
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-vagrant\163.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-concepts-of-linux-is-required-for-cloud-devops/162
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-concepts-of-linux-is-required-for-cloud-devops\162.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-how-to-run-test-classes-in-maven/161
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-how-to-run-test-classes-in-maven\161.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-out-what-are-the-build-phases-in-maven/160
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-out-what-are-the-build-phases-in-maven\160.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/mention-the-difference-between-apache-ant-and-maven/159
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\mention-the-difference-between-apache-ant-and-maven\159.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-out-the-dependency-scope-in-maven/158
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-out-the-dependency-scope-in-maven\158.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-maven-plugins-are-used/157
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-maven-plugins-are-used\157.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-what-is-maven-repository-what-are-their-types/156
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-what-is-maven-repository-what-are-their-types\156.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-what-is-pom-in-maven/155
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-what-is-pom-in-maven\155.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-what-is-maven-how-does-it-work/154
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-what-is-maven-how-does-it-work\154.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-role-of-database-in-sonarqube/153
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-role-of-database-in-sonarqube\153.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-quality-gates-in-sonarqube/152
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-quality-gates-in-sonarqube\152.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-quality-profiles-in-sonarqube/151
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-quality-profiles-in-sonarqube\151.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/free-udemy-devopscloud-courses/150
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\free-udemy-devopscloud-courses\150.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-advantages-of-using-sonarqube/149
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-advantages-of-using-sonarqube\149.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-do-we-use-sonarqube/148
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-do-we-use-sonarqube\148.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-sonarqube/147
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-sonarqube\147.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-jira-workflow/146
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-jira-workflow\146.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-is-jira-used/145
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-is-jira-used\145.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-scale-your-docker-containers/144
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-scale-your-docker-containers\144.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-process-for-stopping-and-restarting-a-docker-container/143
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-process-for-stopping-and-restarting-a-docker-container\143.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-process-for-creating-a-docker-container/142
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-process-for-creating-a-docker-container\142.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-use-of-dockerfile/141
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-use-of-dockerfile\141.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker-hub/140
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker-hub\140.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker-container/139
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker-container\139.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker-image/138
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker-image\138.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-unique-features-of-docker-over-other-containerization-technology/137
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-unique-features-of-docker-over-other-containerization-technology\137.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-process-for-updating-a-chef-cookbook/136
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-process-for-updating-a-chef-cookbook\136.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-importance-of-chef-starter-kit/135
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-importance-of-chef-starter-kit\135.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-are-ssl-certificates-used-in-chef/134
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-are-ssl-certificates-used-in-chef\134.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-chef-resource-and-what-are-its-functions/133
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-chef-resource-and-what-are-its-functions\133.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-major-components-of-chef/132
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-major-components-of-chef\132.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-chef/131
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-chef\131.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/rbac-role-based-access-control-in-azure/130
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\rbac-role-based-access-control-in-azure\130.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-the-applications-of-machine-learning/129
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-the-applications-of-machine-learning\129.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-regularization-in-machine-learning/128
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-regularization-in-machine-learning\128.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-the-steps-involved-in-machine-learning/127
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-the-steps-involved-in-machine-learning\127.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-perceptron-in-machine-learning/126
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-perceptron-in-machine-learning\126.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/name-few-machine-learning-algorithms-you-know/125
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\name-few-machine-learning-algorithms-you-know\125.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-the-different-algorithm-techniques-in-machine-learning/124
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-the-different-algorithm-techniques-in-machine-learning\124.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/list-some-applications-of-ai/123
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\list-some-applications-of-ai\123.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-strong-artificial-intelligence-weak-artificial-intelligence/122
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-strong-artificial-intelligence-weak-artificial-intelligence\122.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-artificial-intelligence/121
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-artificial-intelligence\121.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-can-you-create-a-hdinsight-cluster-in-azure/120
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-can-you-create-a-hdinsight-cluster-in-azure\120.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-different-storage-s-in-windows-azure/119
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-different-storage-s-in-windows-azure\119.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-sql-azure-database/118
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-sql-azure-database\118.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-table-storage-in-windows-azure/117
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-table-storage-in-windows-azure\117.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-autoscaling-in-azure/116
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-autoscaling-in-azure\116.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/differences-between-microsoft-azure-and-aws/115
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\differences-between-microsoft-azure-and-aws\115.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-an-ami-how-do-we-implement-it/114
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-an-ami-how-do-we-implement-it\114.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-security-usage-in-amazon-web-services-model/113
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-security-usage-in-amazon-web-services-model\113.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-key-components-of-aws/112
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-key-components-of-aws\112.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-the-common-storage-of-paas-architecture/111
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-the-common-storage-of-paas-architecture\111.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-cloud-service-models/110
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-cloud-service-models\110.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/mention-the-layers-of-paas-architecture/109
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\mention-the-layers-of-paas-architecture\109.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-mcollective/108
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-mcollective\108.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-puppet-kick/107
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-puppet-kick\107.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-a-module-and-a-manifest/106
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-a-module-and-a-manifest\106.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-manifests/105
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-manifests\105.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-puppet-with-ansible/104
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-puppet-with-ansible\104.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-puppet/103
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-puppet\103.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-load-balancing-on-kubernetes/102
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-load-balancing-on-kubernetes\102.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-use-of-kube-controller-manager/101
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-use-of-kube-controller-manager\101.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-kubernetes-master-components/100
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-kubernetes-master-components\100.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kube-proxy/99
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kube-proxy\99.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-gke/98
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-gke\98.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubectl/97
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubectl\97.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-minikube/96
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-minikube\96.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-kubelet/95
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-kubelet\95.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-container-cluster/94
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-container-cluster\94.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-heapster/93
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-heapster\93.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-node-in-kubernetes/92
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-node-in-kubernetes\92.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-pod-in-kubernetes/91
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-pod-in-kubernetes\91.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-kubernetes-namespace/90
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-kubernetes-namespace\90.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-orchestration-in-software/89
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-orchestration-in-software\89.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-kubernetes-and-docker-swarm/88
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-kubernetes-and-docker-swarm\88.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-kubernetes/87
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-kubernetes\87.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubernetes/86
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubernetes\86.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-headless-service/85
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-headless-service\85.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-understand-by-cloud-controller-manager/84
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-understand-by-cloud-controller-manager\84.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-understand-by-load-balancer-in-kubernetes/83
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-understand-by-load-balancer-in-kubernetes\83.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-etcd/82
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-etcd\82.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-understand-by-kube-proxy/81
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-understand-by-kube-proxy\81.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubelet/80
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubelet\80.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubectl/79
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubectl\79.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-minikube/78
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-minikube\78.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-kubernetes-its-basics-and-components/77
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-kubernetes-its-basics-and-components\77.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-jfrog-artifactory/76
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-jfrog-artifactory\76.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/why-is-jenkins-called-a-continuous-delivery-tool/75
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\why-is-jenkins-called-a-continuous-delivery-tool\75.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-various-ways-in-which-the-build-can-be-scheduled-in-jenkins/74
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-various-ways-in-which-the-build-can-be-scheduled-in-jenkins\74.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-flow-control-in-jenkins/73
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-flow-control-in-jenkins\73.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-can-you-secure-jenkins/72
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-can-you-secure-jenkins\72.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-can-you-clone-a-git-repository-via-jenkins/71
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-can-you-clone-a-git-repository-via-jenkins\71.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-maven-ant-and-jenkins/70
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-maven-ant-and-jenkins\70.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-jenkins-pipeline-what-is-a-ci-cd-pipeline/69
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-jenkins-pipeline-what-is-a-ci-cd-pipeline\69.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-jenkinsfile/68
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-jenkinsfile\68.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/which-command-is-used-to-start-jenkins/67
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\which-command-is-used-to-start-jenkins\67.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-groovy-in-jenkins/66
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-groovy-in-jenkins\66.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-hudson-and-jenkins/65
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-hudson-and-jenkins\65.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-advantages-of-jenkins-why-we-use-jenkins/64
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-advantages-of-jenkins-why-we-use-jenkins\64.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-features-of-jenkins/63
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-features-of-jenkins\63.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/explain-how-you-can-set-up-jenkins-job/62
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\explain-how-you-can-set-up-jenkins-job\62.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-clone-a-git-repository-via-jenkins/61
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-clone-a-git-repository-via-jenkins\61.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-requirement-for-using-jenkins/60
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-requirement-for-using-jenkins\60.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-continuous-integration/59
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-continuous-integration\59.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-two-components-jenkins-is-mainly-integrated-with/58
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-two-components-jenkins-is-mainly-integrated-with\58.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-you-can-move-or-copy-jenkins-from-one-server-to-another/57
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-you-can-move-or-copy-jenkins-from-one-server-to-another\57.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-create-a-backup-and-copy-files-in-jenkins/56
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-create-a-backup-and-copy-files-in-jenkins\56.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-commands-you-can-use-to-start-jenkins-manually/55
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-commands-you-can-use-to-start-jenkins-manually\55.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-benefits-of-using-jenkins/54
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-benefits-of-using-jenkins\54.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-jenkins/53
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-jenkins\53.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-remove-a-file-from-git-without-removing-it-from-your-file-system/52
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-remove-a-file-from-git-without-removing-it-from-your-file-system\52.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-gitflow-workflow/51
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-gitflow-workflow\51.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-git-pull-and-git-fetch/50
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-git-pull-and-git-fetch\50.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-s-the-difference-between-a-pull-request-and-a-branch/49
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-s-the-difference-between-a-pull-request-and-a-branch\49.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-git-fork-what-is-difference-between-fork-branch-and-clone/48
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-git-fork-what-is-difference-between-fork-branch-and-clone\48.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-you-know-in-git-if-a-branch-has-already-been-merged-into-master/47
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-you-know-in-git-if-a-branch-has-already-been-merged-into-master\47.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-branching-strategies-in-git/46
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-branching-strategies-in-git\46.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-can-you-create-a-repository-in-git/45
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-can-you-create-a-repository-in-git\45.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-function-of-git-config/44
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-function-of-git-config\44.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-git-pull-and-git-fetch/43
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-git-pull-and-git-fetch\43.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-language-is-used-in-git/42
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-language-is-used-in-git\42.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-bare-repository-in-git/41
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-bare-repository-in-git\41.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-command-to-write-a-commit-message-in-git/40
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-command-to-write-a-commit-message-in-git\40.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-git/39
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-git\39.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-git-and-svn/38
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-git-and-svn\38.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-important-docker-commands/37
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-important-docker-commands\37.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-docker-namespaces/36
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-docker-namespaces\36.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-docker-objects/35
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-docker-objects\35.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-lifecycle-of-docker-container/34
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-lifecycle-of-docker-container\34.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-docker-registry/33
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-docker-registry\33.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-different-functionalities-and-applications-of-using-docker/32
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-different-functionalities-and-applications-of-using-docker\32.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-docker-image-and-docker-hub/31
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-docker-image-and-docker-hub\31.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-docker-container/30
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-docker-container\30.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-components-of-docker-architecture-and-explain/29
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-components-of-docker-architecture-and-explain\29.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-docker/28
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-docker\28.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/where-can-you-get-reusable-cookbooks-that-are-written-and-maintained-by-the-chef-community/27
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\where-can-you-get-reusable-cookbooks-that-are-written-and-maintained-by-the-chef-community\27.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-command-you-use-to-upload-a-cookbook-to-the-chef-server/26
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-command-you-use-to-upload-a-cookbook-to-the-chef-server\26.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-role-of-starter-kit-in-chef/25
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-role-of-starter-kit-in-chef\25.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-do-we-apply-an-updated-cookbook-to-node-in-chef/24
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-do-we-apply-an-updated-cookbook-to-node-in-chef\24.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-we-need-in-order-to-bootstrap-in-chef/23
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-we-need-in-order-to-bootstrap-in-chef\23.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-run-list-in-chef/22
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-run-list-in-chef\22.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-does-a-cookbook-differ-from-a-recipe-in-chef/21
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-does-a-cookbook-differ-from-a-recipe-in-chef\21.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-node-in-chef/20
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-node-in-chef\20.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-a-recipe-in-chef/19
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-a-recipe-in-chef\19.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-chef/18
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-chef\18.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-azure/17
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-azure\17.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-bitbucket/16
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-bitbucket\16.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-ansible-tower/15
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-ansible-tower\15.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-differences-between-variable-name-and-environment-variables/14
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-differences-between-variable-name-and-environment-variables\14.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/how-to-install-ansible/13
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\how-to-install-ansible\13.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/describe-the-working-of-ansible/12
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\describe-the-working-of-ansible\12.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-different-modules-in-ansible/11
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-different-modules-in-ansible\11.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-ansible-role/10
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-ansible-role\10.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-way-to-access-shell-environment-variables-in-ansible/9
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-way-to-access-shell-environment-variables-in-ansible\9.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-ansible-galaxy/8
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-ansible-galaxy\8.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-the-advantages-of-using-ansible/7
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-the-advantages-of-using-ansible\7.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-do-you-know-about-ansible-architecture/6
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-do-you-know-about-ansible-architecture\6.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-are-ad-hoc-commands/5
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-are-ad-hoc-commands\5.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/when-should-we-test-playbooks-and-roles/4
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\when-should-we-test-playbooks-and-roles\4.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-use-of-ansible/3
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-use-of-ansible\3.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-the-difference-between-ansible-and-puppet/2
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-the-difference-between-ansible-and-puppet\2.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/what-is-ansible/1
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\what-is-ansible\1.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/termsandconditions
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\termsandconditions.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/vendor/jquery/jquery.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/vendor/images/devOpsCloud-guru_logo.jpg
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\images\devOpsCloud-guru_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/vendor/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/vendor/metisMenu/metisMenu.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\metisMenu\metisMenu.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/vendor/datatables/js/jquery.dataTables.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\datatables\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/vendor/datatables-plugins/dataTables.bootstrap.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\datatables-plugins\dataTables.bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/vendor/datatables-responsive/dataTables.responsive.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\vendor\datatables-responsive\dataTables.responsive.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/dist/js/sb-admin-2.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\js\sb-admin-2.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/dist/css/custom.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\css\custom.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/forgotpassword
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\forgotpassword.html
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/dist/css/select2.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\css\select2.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/dist/css/questioncstn.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\css\questioncstn.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/dist/css/jquery-ui.css
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.devopscloud.guru/dist/img/spin.gif
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\img\spin.gif
+Content Type: image/gif
+
+Uri: https://www.devopscloud.guru/dist/js/select2.min.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/ckeditor.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\ckeditor.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/dist/js/jquery-ui.js
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/remove.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\remove.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/remove-1.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\remove-1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/create.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\create.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/create-1.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\create-1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/create-2.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\create-2.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS1.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS1.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS2.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS2.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS3.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS3.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS4.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS4.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS5.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS5.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS6.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS6.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/AWS7.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\AWS7.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1(4).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1(4).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/2.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\2.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/3.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\3.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/4.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\4.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/5.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\5.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/6.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\6.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/7.JPG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\7.JPG
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/111.jpg
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/222.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\222.png
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/333.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\333.png
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1(3).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1(3).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/2(3).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\2(3).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/3(2).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\3(2).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/4.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\4.png
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/5(2).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\5(2).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/docker.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\docker.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/Azure-Services.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\Azure-Services.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1(2).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1(2).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/2(2).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\2(2).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/3(1).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\3(1).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/4(1).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\4(1).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/5(1).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\5(1).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1(1).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1(1).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/2(1).PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\2(1).PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/3.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\3.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/5.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\5.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/6.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\6.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/7.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\7.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/1.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\1.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/kcfinder/upload/images/2.PNG
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\kcfinder\upload\images\2.PNG
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/?del=1
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\index-1.htm
+Content Type: text/html
+
+Uri: https://www.devopscloud.guru/dist/img/select2.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\img\select2.png
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/dist/img/spinner.gif
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\img\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.devopscloud.guru/dist/img/down-icn.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\img\down-icn.png
+Content Type: image/png
+
+Uri: https://www.devopscloud.guru/dist/img/up-icn.png
+File Name: C:\Users\balabhaskararao\Downloads\results-site\www.devopscloud.guru\dist\img\up-icn.png
+Content Type: image/png
+
